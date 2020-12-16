@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>DSC106 - Final Project</title>
+	<!-- <link href="https://fonts.googleapis.com/css?family=Montserrat|Paytone+One&display=swap" rel="stylesheet" /> -->
+
+	<!-- JavaScript -->
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+	<script src="https://code.highcharts.com/highcharts-more.js"></script>
+	<script src="https://code.highcharts.com/modules/exporting.js"></script>
+	<script src="https://code.highcharts.com/modules/export-data.js"></script>
+	<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+	<script src="https://code.highcharts.com/modules/item-series.js"></script>
+	<script src="https://code.highcharts.com/modules/treemap.js"></script>
+	<script src="https://code.highcharts.com/modules/heatmap.js"></script>
+	<script src="code.js"></script>
+
+	<!-- CSS -->
+	<link href="css/style.css" rel="stylesheet" />
+	<!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
+	<link href="css/one-page-wonder.css" rel="stylesheet">
+	<link href="css/font.css" rel="stylesheet" />
+</head>
+
+<body>
+
+	<header class="masthead text-center text-white">
+		<div class="masthead-content">
+		  <div class="container">
+			<!-- <h1 class="masthead-heading mb-0" style="color:#FFCE00">Barcelona V.S. Chelsea ⚽️ </h1> -->
+			<h1 class="masthead-heading mb-0" style="color:#FFCE00; display: inline;">Barcelona  </h1>
+			<h1 class="masthead-heading mb-0" style="color: black; display: inline;">   v.s. </h1>
+			<h1 class="masthead-heading mb-0" style="color:#0375B4; display: inline;"> Chelsea ⚽️ </h1>
+			<br><br>
+			<h5 style="color:#000000">By Yuexiang Zhang & Zhaoyi Hou</h5>
+		  </div>
+		</div>
+		
+	</header>
+
+	<br><br><br>
+
+	<div class="container" style="text-align: center;">
+		<h2 class="masthead-heading mb-0"> 🙋🏻‍♂️ 💁 🙆🏿 &nbsp;&nbsp; Team &nbsp;&nbsp;  🙆🏿 💁 🙋🏻‍♂️ </h2>
+	</div>
+
+	<br><br><br>
+
+	<!-- Possession / Bubble Chart -->
+	<section>
+		<div class="container" style="text-align: center;">
+			<h3 class="masthead-heading mb-0">Possessions During Games</h1>
+		</div>
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-lg-6 order-lg-1">
+					<div class="p-5 chart--container" id="bubble-barcelona"></div>
+			  	</div>
+			  	<div class="col-lg-6 order-lg-2">
+					<div class="p-5 chart--container" id="bubble-chelsea"></div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<br><br><br>
+
+	<!-- Possession / Histogram -->
+	<section>
+		<div class="container">
+			<div class="row align-items-center">
+			  	<div class="col-lg-6 order-lg-2">
+					<div class="p-5 chart--container" id="hist-chart"></div>
+			  	</div>
+			  	<div class="col-lg-6 order-lg-1">
+					<div class="p-5">
+						<h3>Possession</h3>
+					  	<p> Barcelona is good at keeping the ball during a game, 
+							  while Chelsea is good at counterattact </p>
+					</div>
+				</div>
+			</div>
+	  </div>
+	</section>
+
+	<br><br><br>
+
+	<!-- Att&Def Chart / Radar Chart -->
+	<section class="">
+		<div class="container">
+			<div class="row align-items-center">
+			 	<div class="col-lg-6">
+					<div class="p-5 chart--container" id="radar-perc-val"></div>
+			  	</div>
+			  	<div class="col-lg-6">
+					<div class="p-5">
+					  	<h3>Attack & Defense</h3>
+					  	<p>Barcelona and Chelsea both have strong defense, while Barcelona shoots more in games</p>
+					</div>
+			  	</div>
+			</div>
+	  	</div>
+	</section>
+
+	<br><br><br><br><br><br>
+
+	<div class="container" style="text-align: center;">
+		<h2 class="masthead-heading mb-0">🏃🏃🏽 &nbsp;&nbsp; Individual Players &nbsp;&nbsp; 🏃🏿🏃🏻</h2>
+	</div>
+
+	<br><br><br>
+
+
+	<!-- Players Value -->
+	<section>
+		<div class="container" style="text-align: center;">
+			<h3 class="masthead-heading mb-0">Player's Values Comparision (Season 18-19)</h1>
+		</div>
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-lg-6 order-lg-1">
+					<div class="p-5 chart--container"  id="chelsea-player-values"></div>
+			  	</div>
+			  	<div class="col-lg-6 order-lg-2">
+					<div class="p-5 chart--container" id="barcelona-player-values"></div>
+				</div>
+			</div>
+		</div>
+		<div class="container" style="text-align: center;">
+			<br>
+			<br>
+			<p class="masthead-heading mb-0">In Season 18-19, Barcelona and Chelsea had similar distributions of players' value. Messi is the top1 player in Barcelona
+				 and Hazard is the top1 player in Chelsea.</p>
+		</div>
+	</section>
+	
+	<br><br><br><br><br>
+
+	<!-- Goals / Parliment Chart -->
+	<section>
+		<div class="container" style="text-align: center;">
+			<h3 class="masthead-heading mb-0">Goal Contributions</h1>
+		</div>
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-lg-6 order-lg-1">
+					<div class="p-5 chart--container" id="parli-barcelona"></div>
+			  	</div>
+			  	<div class="col-lg-6 order-lg-2">
+					<div class="p-5 chart--container" id="parli-chelsea"></div>
+				</div>
+			</div>
+		</div>
+		<div class="container" style="text-align: center;">
+			<br>
+			<br>
+			<p class="masthead-heading mb-0">Corresponding with our conclusion from the pie charts above, 
+				Messi and Hazard scored the most goals in their teams. 
+				Barcelona and Chelsea both rely on their super stars heavily.</p>
+		</div>
+
+	</section>
+
+	<br><br><br><br><br>
+
+	<!-- Assist / Heatmap -->
+	<section>
+		<div class="container" style="text-align: center;">
+			<h3 class="masthead-heading mb-0">Goal Assists</h1>
+		</div>
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-lg-6 order-lg-1">
+					<div class="p-5 chart--container" id="heatmap-barcelona"></div>
+			  	</div>
+			  	<div class="col-lg-6 order-lg-2">
+					<div class="p-5 chart--container" id="heatmap-chelsea"></div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+
+	<br><br><br><br><br><br><br><br><br><br>
+
+	<section>
+		<div class="container" style="text-align: center;">
+			<h2 class="masthead-heading mb-0">Conclusion ⚽️ </h2>
+			<br>
+			<p class="text-primary">
+				As the two of the most prestigious teams in world football, <span style='color: #FFCE00'>F.C. Barcelona</span> and <span style="color: #0375B4">Chelsea F.C. </span>have both maintained a very high standard in recent years. 
+			</p>
+			<p class="text-primary">As fans of these two teams, we are fortunate to be able to present the stories behind those victories and trophies in the form of data. </p>
+			<p class="text-primary"><span style='color: #0375B4'>In this process, we ourselves have also gained a lot: many stereotypes about these two teams were refreshed and many underlying reasons behind wins and loses were learned.</span></p>
+			<p class="text-primary">In fact, countless details on and off the field together determine the outcome of a soccer game and the championship. </p>
+			<p class="text-primary">The data we selected in this project is only part of it. </p>
+			<p class="text-primary"><span style="color: #FFCE00">We hope that our project will interest you and hopefully draw your interests in learning more about soccer.</span></p>
+		</div>
+	</section>
+
+	<br><br><br>
+	<br><br><br>
+	<br><br><br>
+
+
+</body>
+
+</html>
