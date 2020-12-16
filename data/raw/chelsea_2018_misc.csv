@@ -1,0 +1,64 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
+2018-08-05,15:00 ,Community Shield,FA Community Shield,Sun,Neutral,L,0,2,Manchester City,0,0,0,6,10,1,10,7,11,0,0,0,,,,,Match Report
+2018-08-11,15:00 ,Premier League,Matchweek 1,Sat,Away,W,3,0,Huddersfield,1,0,0,8,8,1,6,10,7,1,0,0,86,7,10,41.2,Match Report
+2018-08-18,17:30 ,Premier League,Matchweek 2,Sat,Home,W,3,2,Arsenal,0,0,0,12,9,3,16,5,9,0,0,0,86,6,4,60.0,Match Report
+2018-08-26,16:00 ,Premier League,Matchweek 3,Sun,Away,W,2,1,Newcastle Utd,1,0,0,8,16,2,15,1,7,1,0,0,94,7,8,46.7,Match Report
+2018-09-01,15:00 ,Premier League,Matchweek 4,Sat,Home,W,2,0,Bournemouth,2,0,0,10,7,2,19,8,3,0,0,0,109,4,4,50.0,Match Report
+2018-09-15,15:00 ,Premier League,Matchweek 5,Sat,Home,W,4,1,Cardiff City,0,0,0,8,10,0,9,5,7,1,0,0,112,5,5,50.0,Match Report
+2018-09-20,19:55 ,Europa Lg,Group stage,Thu,Away,W,1,0,gr PAOK,2,0,0,13,6,2,15,6,5,0,0,0,77,9,9,50.0,Match Report
+2018-09-23,13:30 ,Premier League,Matchweek 6,Sun,Away,D,0,0,West Ham,1,0,0,9,11,3,20,6,6,0,0,0,115,3,3,50.0,Match Report
+2018-09-26,19:45 ,EFL Cup,Third round,Wed,Away,W,2,1,Liverpool,3,0,0,10,16,5,14,16,11,0,0,0,,,,,Match Report
+2018-09-29,17:30 ,Premier League,Matchweek 7,Sat,Home,D,1,1,Liverpool,0,0,0,7,9,2,9,13,10,0,0,0,92,10,9,52.6,Match Report
+2018-10-04,20:00 ,Europa Lg,Group stage,Thu,Home,W,1,0,hu Vidi,1,0,0,9,14,1,14,11,9,0,0,0,71,6,6,50.0,Match Report
+2018-10-07,14:15 ,Premier League,Matchweek 8,Sun,Away,W,3,0,Southampton,0,0,0,11,14,0,11,5,7,0,0,0,83,12,7,63.2,Match Report
+2018-10-20,12:30 ,Premier League,Matchweek 9,Sat,Home,D,2,2,Manchester Utd,2,0,0,10,15,2,15,11,6,0,0,0,98,11,10,52.4,Match Report
+2018-10-25,20:00 ,Europa Lg,Group stage,Thu,Home,W,3,1,by BATE Borisov,0,0,0,6,10,0,17,9,11,0,0,0,88,5,7,41.7,Match Report
+2018-10-28,13:30 ,Premier League,Matchweek 10,Sun,Away,W,4,0,Burnley,2,0,0,10,14,0,6,4,7,0,0,0,69,13,11,54.2,Match Report
+2018-10-31,19:45 ,EFL Cup,Fourth round,Wed,Home,W,3,2,Derby County,1,0,0,10,13,2,24,12,10,0,0,0,,,,,Match Report
+2018-11-04,16:00 ,Premier League,Matchweek 11,Sun,Home,W,3,1,Crystal Palace,0,0,0,6,13,6,17,5,14,0,0,0,87,4,5,44.4,Match Report
+2018-11-08,20:55 ,Europa Lg,Group stage,Thu,Away,W,1,0,by BATE Borisov,0,0,0,5,14,0,12,5,5,0,0,0,103,11,5,68.8,Match Report
+2018-11-11,14:15 ,Premier League,Matchweek 12,Sun,Home,D,0,0,Everton,4,0,0,7,11,5,13,5,13,0,0,0,86,4,13,23.5,Match Report
+2018-11-24,17:30 ,Premier League,Matchweek 13,Sat,Away,L,1,3,Tottenham,3,0,0,12,20,5,20,16,14,0,0,0,86,14,9,60.9,Match Report
+2018-11-29,20:00 ,Europa Lg,Group stage,Thu,Home,W,4,0,gr PAOK,1,0,0,9,10,2,18,4,14,0,0,0,64,7,3,70.0,Match Report
+2018-12-02,12:00 ,Premier League,Matchweek 14,Sun,Home,W,2,0,Fulham,2,0,0,8,17,0,13,8,7,0,0,0,97,10,6,62.5,Match Report
+2018-12-05,19:45 ,Premier League,Matchweek 15,Wed,Away,L,1,2,Wolves,4,0,0,10,18,0,11,10,10,0,0,0,95,13,13,50.0,Match Report
+2018-12-08,17:30 ,Premier League,Matchweek 16,Sat,Home,W,2,0,Manchester City,2,0,0,12,11,1,6,18,10,0,0,0,70,12,3,80.0,Match Report
+2018-12-13,18:55 ,Europa Lg,Group stage,Thu,Away,D,2,2,hu Vidi,1,0,0,14,13,7,13,13,9,0,0,1,71,7,14,33.3,Match Report
+2018-12-16,13:30 ,Premier League,Matchweek 17,Sun,Away,W,2,1,Brighton,2,0,0,6,14,4,4,12,6,0,0,0,96,6,11,35.3,Match Report
+2018-12-19,19:45 ,EFL Cup,Quarter-finals,Wed,Home,W,1,0,Bournemouth,1,0,0,6,8,1,19,8,5,0,0,0,,,,,Match Report
+2018-12-22,15:00 ,Premier League,Matchweek 18,Sat,Home,L,0,1,Leicester City,0,0,0,10,9,3,16,5,16,0,0,0,118,12,14,46.2,Match Report
+2018-12-26,19:30 ,Premier League,Matchweek 19,Wed,Away,W,2,1,Watford,0,0,0,6,14,2,8,6,8,1,0,0,105,12,20,37.5,Match Report
+2018-12-30,12:00 ,Premier League,Matchweek 20,Sun,Away,W,1,0,Crystal Palace,1,0,0,8,10,3,11,11,5,0,0,0,94,10,9,52.6,Match Report
+2019-01-02,19:45 ,Premier League,Matchweek 21,Wed,Home,D,0,0,Southampton,1,0,0,8,11,5,15,5,8,0,0,0,137,14,10,58.3,Match Report
+2019-01-05,15:00 ,FA Cup,Third round,Sat,Home,W,2,0,Nott'ham Forest,1,0,0,4,11,1,24,5,6,1,0,0,,,,,Match Report
+2019-01-08,20:00 ,EFL Cup,Semi-finals,Tue,Away,L,0,1,Tottenham,1,0,0,6,10,0,24,11,7,0,1,0,,,,,Match Report
+2019-01-12,17:30 ,Premier League,Matchweek 22,Sat,Home,W,2,1,Newcastle Utd,1,0,0,6,13,5,8,9,13,0,0,0,106,21,9,70.0,Match Report
+2019-01-19,17:30 ,Premier League,Matchweek 23,Sat,Away,L,0,2,Arsenal,2,0,0,15,13,0,23,3,9,0,0,0,116,9,10,47.4,Match Report
+2019-01-24,19:45 ,EFL Cup,Semi-finals,Thu,Home,W,2 (4),1 (2),Tottenham,3,0,0,9,16,1,26,7,7,0,0,0,,,,,Match Report
+2019-01-27,18:00 ,FA Cup,Fourth round,Sun,Home,W,3,0,Sheffield Weds,0,0,0,4,12,0,16,5,10,1,1,0,,,,,Match Report
+2019-01-30,19:45 ,Premier League,Matchweek 24,Wed,Away,L,0,4,Bournemouth,0,0,0,6,8,6,23,6,10,0,0,0,98,8,10,44.4,Match Report
+2019-02-02,15:00 ,Premier League,Matchweek 25,Sat,Home,W,5,0,Huddersfield,0,0,0,8,5,2,12,8,23,1,0,0,93,7,5,58.3,Match Report
+2019-02-10,16:00 ,Premier League,Matchweek 26,Sun,Away,L,0,6,Manchester City,2,0,0,13,9,1,7,5,19,0,1,0,59,3,5,37.5,Match Report
+2019-02-14,21:00 ,Europa Lg,Round of 32,Thu,Away,W,2,1,se Malmö,0,0,0,10,20,4,18,3,5,0,0,0,67,11,5,68.8,Match Report
+2019-02-18,19:30 ,FA Cup,Fifth round,Mon,Home,L,0,2,Manchester Utd,2,0,0,11,16,2,24,12,15,0,0,0,,,,,Match Report
+2019-02-21,20:00 ,Europa Lg,Round of 32,Thu,Home,W,3,0,se Malmö,1,0,0,14,12,3,9,3,9,0,0,0,87,16,12,57.1,Match Report
+2019-02-24,16:30 ,EFL Cup,Final,Sun,Home,D,0 (3),0 (4),Manchester City,3,0,0,7,21,2,12,8,14,0,0,0,,,,,Match Report
+2019-02-27,20:00 ,Premier League,Matchweek 28,Wed,Home,W,2,0,Tottenham,1,0,0,7,13,1,9,13,20,0,0,0,101,10,10,50.0,Match Report
+2019-03-03,14:05 ,Premier League,Matchweek 29,Sun,Away,W,2,1,Fulham,1,0,0,10,11,0,9,4,13,0,0,0,80,9,3,75.0,Match Report
+2019-03-07,20:00 ,Europa Lg,Round of 16,Thu,Home,W,3,0,ua Dynamo Kyiv,0,0,0,14,15,3,6,9,7,0,0,0,76,7,6,53.8,Match Report
+2019-03-10,14:05 ,Premier League,Matchweek 30,Sun,Home,D,1,1,Wolves,1,0,0,8,13,1,21,5,10,0,0,0,107,5,17,22.7,Match Report
+2019-03-14,19:55 ,Europa Lg,Round of 16,Thu,Away,W,5,0,ua Dynamo Kyiv,1,0,0,8,13,1,12,6,10,0,0,0,80,10,3,76.9,Match Report
+2019-03-17,16:30 ,Premier League,Matchweek 31,Sun,Away,L,0,2,Everton,2,0,0,9,17,3,11,9,11,0,1,0,100,15,10,60.0,Match Report
+2019-03-31,14:05 ,Premier League,Matchweek 32,Sun,Away,W,2,1,Cardiff City,3,0,0,14,8,1,7,7,8,0,0,0,115,19,16,54.3,Match Report
+2019-04-03,19:45 ,Premier League,Matchweek 27,Wed,Home,W,3,0,Brighton,0,0,0,5,9,0,13,7,14,0,0,0,86,16,13,55.2,Match Report
+2019-04-08,20:00 ,Premier League,Matchweek 33,Mon,Home,W,2,0,West Ham,2,0,0,8,7,3,10,10,11,0,0,0,81,10,8,55.6,Match Report
+2019-04-11,21:00 ,Europa Lg,Quarter-finals,Thu,Away,W,1,0,cz Slavia Prague,0,0,0,9,15,2,10,8,14,0,0,0,93,10,11,47.6,Match Report
+2019-04-14,16:30 ,Premier League,Matchweek 34,Sun,Away,L,0,2,Liverpool,1,0,0,9,5,2,10,6,15,0,0,0,86,6,8,42.9,Match Report
+2019-04-18,20:00 ,Europa Lg,Quarter-finals,Thu,Home,W,4,3,cz Slavia Prague,4,0,0,9,18,2,7,9,10,0,0,0,86,9,11,45.0,Match Report
+2019-04-22,20:00 ,Premier League,Matchweek 35,Mon,Home,D,2,2,Burnley,2,0,0,9,4,1,29,3,12,0,0,0,113,18,16,52.9,Match Report
+2019-04-28,16:30 ,Premier League,Matchweek 36,Sun,Away,D,1,1,Manchester Utd,2,0,0,14,9,5,15,11,15,0,0,0,81,9,12,42.9,Match Report
+2019-05-02,21:00 ,Europa Lg,Semi-finals,Thu,Away,D,1,1,de Eint Frankfurt,1,0,0,9,14,1,12,2,8,0,0,0,108,12,10,54.5,Match Report
+2019-05-05,14:00 ,Premier League,Matchweek 37,Sun,Home,W,3,0,Watford,0,0,0,6,12,1,12,9,14,0,0,0,94,17,12,58.6,Match Report
+2019-05-09,20:00 ,Europa Lg,Semi-finals,Thu,Home,W,1 (4),1 (3),de Eint Frankfurt,3,0,0,19,25,1,20,12,13,0,0,0,136,27,26,50.9,Match Report
+2019-05-12,15:00 ,Premier League,Matchweek 38,Sun,Away,D,0,0,Leicester City,1,0,0,8,9,2,11,6,14,0,0,0,78,5,4,55.6,Match Report
+2019-05-29,23:00 ,Europa Lg,Final,Wed,Home,W,4,1,eng Arsenal,2,0,0,14,11,1,3,8,8,1,0,0,63,11,15,42.3,Match Report

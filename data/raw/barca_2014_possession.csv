@@ -1,0 +1,61 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,#Pl,Megs,Carries,TotDist,PrgDist,Targ,Rec,Rec%,Miscon,Dispos,Match Report
+2014-08-24,21:00 ,La Liga,Matchweek 1,Sun,Home,W,3,0,Elche,935,30,147,629,222,26,891,18,31,58.1,19,1,788,3706,2002,815,761,93.4,11,16,Match Report
+2014-08-31,19:00 ,La Liga,Matchweek 2,Sun,Away,W,1,0,Villarreal,895,35,152,416,386,39,845,15,18,83.3,15,0,704,3333,2011,742,676,91.1,11,20,Match Report
+2014-09-13,16:00 ,La Liga,Matchweek 3,Sat,Home,W,2,0,Athletic Club,824,50,207,466,211,42,783,24,42,57.1,28,0,659,3358,1982,658,598,90.9,7,8,Match Report
+2014-09-17,20:45 ,Champions Lg,Group stage,Wed,Home,W,1,0,cy APOEL FC,,,,,,,,,,,,,,,,,,,,,Match Report
+2014-09-21,21:00 ,La Liga,Matchweek 4,Sun,Away,W,5,0,Levante,944,37,148,531,328,40,909,19,28,67.9,20,1,669,3255,1956,832,768,92.3,9,10,Match Report
+2014-09-24,22:00 ,La Liga,Matchweek 5,Wed,Away,D,0,0,Málaga,760,41,197,378,244,28,707,25,48,52.1,27,0,570,3377,1958,581,535,92.1,8,3,Match Report
+2014-09-27,18:00 ,La Liga,Matchweek 6,Sat,Home,W,6,0,Granada,837,30,134,391,372,44,786,16,28,57.1,16,0,662,3710,1992,700,634,90.6,8,8,Match Report
+2014-09-30,20:45 ,Champions Lg,Group stage,Tue,Away,L,2,3,fr Paris S-G,,,,,,,,,,,,,,,,,,,,,Match Report
+2014-10-04,18:00 ,La Liga,Matchweek 7,Sat,Away,W,2,0,Rayo Vallecano,658,65,183,336,185,30,601,4,10,40.0,5,0,448,2445,1244,511,430,84.1,13,9,Match Report
+2014-10-18,20:00 ,La Liga,Matchweek 8,Sat,Home,W,3,0,Eibar,801,33,137,358,369,55,758,21,34,61.8,23,0,650,3755,2053,698,628,90.0,9,13,Match Report
+2014-10-21,20:45 ,Champions Lg,Group stage,Tue,Home,W,3,1,nl Ajax,,,,,,,,,,,,,,,,,,,,,Match Report
+2014-10-25,18:00 ,La Liga,Matchweek 9,Sat,Away,L,1,3,Real Madrid,745,59,161,370,274,28,704,17,20,85.0,18,0,491,3100,1921,610,550,90.2,15,16,Match Report
+2014-11-01,20:00 ,La Liga,Matchweek 10,Sat,Home,L,0,1,Celta Vigo,778,51,175,401,265,49,711,25,39,64.1,27,3,555,3220,1903,600,500,83.3,26,10,Match Report
+2014-11-05,20:45 ,Champions Lg,Group stage,Wed,Away,W,2,0,nl Ajax,,,,,,,,,,,,,,,,,,,,,Match Report
+2014-11-08,16:00 ,La Liga,Matchweek 11,Sat,Away,W,2,1,Almería,747,56,171,390,225,38,706,12,21,57.1,14,0,515,3010,1840,608,534,87.8,14,7,Match Report
+2014-11-22,20:00 ,La Liga,Matchweek 12,Sat,Home,W,5,1,Sevilla,883,50,146,496,296,36,829,24,43,55.8,24,1,678,3442,2027,754,684,90.7,13,9,Match Report
+2014-11-25,21:45 ,Champions Lg,Group stage,Tue,Away,W,4,0,cy APOEL FC,,,,,,,,,,,,,,,,,,,,,Match Report
+2014-11-30,21:00 ,La Liga,Matchweek 13,Sun,Away,W,1,0,Valencia,862,53,186,447,297,31,817,11,21,52.4,12,0,689,3630,2311,725,651,89.8,10,11,Match Report
+2014-12-03,22:00 ,Copa del Rey,Round of 32,Wed,Away,W,4,0,Huesca,,,,,,,,,,,,,,,,,,,,,Match Report
+2014-12-07,17:00 ,La Liga,Matchweek 14,Sun,Home,W,5,1,Espanyol,1025,38,172,554,386,45,993,28,46,60.9,28,1,886,4578,2601,872,822,94.3,10,11,Match Report
+2014-12-10,20:45 ,Champions Lg,Group stage,Wed,Home,W,3,1,fr Paris S-G,,,,,,,,,,,,,,,,,,,,,Match Report
+2014-12-13,16:00 ,La Liga,Matchweek 15,Sat,Away,D,0,0,Getafe,941,36,176,533,301,41,886,18,32,56.3,19,1,692,3436,2115,782,703,89.9,15,15,Match Report
+2014-12-16,22:00 ,Copa del Rey,Round of 32,Tue,Home,W,8,1,Huesca,,,,,,,,,,,,,,,,,,,,,Match Report
+2014-12-20,16:00 ,La Liga,Matchweek 16,Sat,Home,W,5,0,Córdoba,935,33,142,464,383,47,896,16,26,61.5,18,2,765,3388,1959,817,735,90.0,8,13,Match Report
+2015-01-04,21:00 ,La Liga,Matchweek 17,Sun,Away,L,0,1,Real Sociedad,864,36,169,412,343,53,809,11,18,61.1,11,0,633,3543,2057,722,619,85.7,16,19,Match Report
+2015-01-08,22:00 ,Copa del Rey,Round of 16,Thu,Home,W,5,0,Elche,,,,,,,,,,,,,,,,,,,,,Match Report
+2015-01-11,21:00 ,La Liga,Matchweek 18,Sun,Home,W,3,1,Atlético Madrid,760,60,186,385,236,42,709,24,34,70.6,26,2,577,2970,1698,622,545,87.6,8,12,Match Report
+2015-01-15,22:00 ,Copa del Rey,Round of 16,Thu,Away,W,4,0,Elche,,,,,,,,,,,,,,,,,,,,,Match Report
+2015-01-18,19:00 ,La Liga,Matchweek 19,Sun,Away,W,4,0,La Coruña,851,49,183,450,277,39,810,15,28,53.6,18,1,622,3236,2172,701,638,91.0,14,6,Match Report
+2015-01-21,22:00 ,Copa del Rey,Quarter-finals,Wed,Home,W,1,0,Atlético Madrid,,,,,,,,,,,,,,,,,,,,,Match Report
+2015-01-24,18:00 ,La Liga,Matchweek 20,Sat,Away,W,6,0,Elche,832,39,146,489,248,23,789,15,21,71.4,19,3,650,3197,1927,697,646,92.7,9,17,Match Report
+2015-01-28,21:00 ,Copa del Rey,Quarter-finals,Wed,Away,W,3,2,Atlético Madrid,,,,,,,,,,,,,,,,,,,,,Match Report
+2015-02-01,21:00 ,La Liga,Matchweek 21,Sun,Home,W,3,2,Villarreal,873,33,118,445,357,60,817,16,25,64.0,18,0,666,3642,2099,722,643,89.1,9,15,Match Report
+2015-02-08,21:00 ,La Liga,Matchweek 22,Sun,Away,W,5,2,Athletic Club,961,62,260,530,226,49,922,19,35,54.3,21,1,646,3010,1546,802,730,91.0,12,8,Match Report
+2015-02-11,20:00 ,Copa del Rey,Semi-finals,Wed,Home,W,3,1,Villarreal,,,,,,,,,,,,,,,,,,,,,Match Report
+2015-02-15,17:00 ,La Liga,Matchweek 23,Sun,Home,W,5,0,Levante,903,33,146,521,286,41,869,7,18,38.9,10,0,618,3315,2110,759,714,94.1,10,8,Match Report
+2015-02-21,16:00 ,La Liga,Matchweek 24,Sat,Home,L,0,1,Málaga,825,41,153,383,358,43,769,31,48,64.6,33,2,635,3893,2456,662,588,88.8,13,14,Match Report
+2015-02-24,19:45 ,Champions Lg,Round of 16,Tue,Away,W,2,1,eng Manchester City,,,,,,,,,,,,,,,,,,,,,Match Report
+2015-02-28,16:00 ,La Liga,Matchweek 25,Sat,Away,W,3,1,Granada,637,60,211,333,146,32,590,19,25,76.0,20,1,407,2560,1559,485,416,85.8,14,13,Match Report
+2015-03-04,20:00 ,Copa del Rey,Semi-finals,Wed,Away,W,3,1,Villarreal,,,,,,,,,,,,,,,,,,,,,Match Report
+2015-03-08,12:00 ,La Liga,Matchweek 26,Sun,Home,W,6,1,Rayo Vallecano,669,70,191,306,218,35,615,17,30,56.7,21,3,423,2458,1490,536,459,85.6,9,10,Match Report
+2015-03-14,18:00 ,La Liga,Matchweek 27,Sat,Away,W,2,0,Eibar,894,69,219,501,249,28,850,29,39,74.4,33,7,660,4092,2410,738,663,89.8,12,15,Match Report
+2015-03-18,20:45 ,Champions Lg,Round of 16,Wed,Home,W,1,0,eng Manchester City,,,,,,,,,,,,,,,,,,,,,Match Report
+2015-03-22,21:00 ,La Liga,Matchweek 28,Sun,Home,W,2,1,Real Madrid,666,64,200,371,147,23,627,19,32,59.4,22,2,457,2979,1880,519,455,87.7,7,13,Match Report
+2015-04-05,21:00 ,La Liga,Matchweek 29,Sun,Away,W,1,0,Celta Vigo,741,57,210,384,203,29,684,21,37,56.8,26,1,458,2922,1624,541,496,91.7,19,9,Match Report
+2015-04-08,20:00 ,La Liga,Matchweek 30,Wed,Home,W,4,0,Almería,796,38,140,424,298,43,755,10,15,66.7,10,0,644,3790,2316,677,613,90.5,14,13,Match Report
+2015-04-11,20:00 ,La Liga,Matchweek 31,Sat,Away,D,2,2,Sevilla,888,49,156,586,206,33,835,14,24,58.3,15,2,620,3466,2066,742,679,91.5,14,11,Match Report
+2015-04-15,20:45 ,Champions Lg,Quarter-finals,Wed,Away,W,3,1,fr Paris S-G,,,,,,,,,,,,,,,,,,,,,Match Report
+2015-04-18,16:00 ,La Liga,Matchweek 32,Sat,Home,W,2,0,Valencia,819,72,215,430,220,29,770,20,28,71.4,23,3,638,3151,1847,680,616,90.6,11,19,Match Report
+2015-04-21,20:45 ,Champions Lg,Quarter-finals,Tue,Home,W,2,0,fr Paris S-G,,,,,,,,,,,,,,,,,,,,,Match Report
+2015-04-25,16:00 ,La Liga,Matchweek 33,Sat,Away,W,2,0,Espanyol,851,56,179,494,218,26,806,19,34,55.9,20,1,679,2757,1354,717,657,91.6,6,6,Match Report
+2015-04-28,20:00 ,La Liga,Matchweek 34,Tue,Home,W,6,0,Getafe,904,33,143,503,322,39,875,22,39,56.4,24,0,666,3753,2106,773,721,93.3,13,2,Match Report
+2015-05-02,16:00 ,La Liga,Matchweek 35,Sat,Away,W,8,0,Córdoba,907,48,163,468,339,53,866,16,30,53.3,17,1,735,3496,2109,763,709,92.9,10,5,Match Report
+2015-05-06,20:45 ,Champions Lg,Semi-finals,Wed,Home,W,3,0,de Bayern Munich,,,,,,,,,,,,,,,,,,,,,Match Report
+2015-05-09,18:00 ,La Liga,Matchweek 36,Sat,Home,W,2,0,Real Sociedad,725,42,193,399,200,43,679,11,19,57.9,12,1,557,3450,2091,590,506,85.8,10,17,Match Report
+2015-05-12,20:45 ,Champions Lg,Semi-finals,Tue,Away,L,2,3,de Bayern Munich,,,,,,,,,,,,,,,,,,,,,Match Report
+2015-05-17,19:00 ,La Liga,Matchweek 37,Sun,Away,W,1,0,Atlético Madrid,869,76,256,405,258,27,813,25,28,89.3,27,3,697,3070,1637,705,661,93.8,8,20,Match Report
+2015-05-23,18:30 ,La Liga,Matchweek 38,Sat,Home,D,2,2,La Coruña,1043,42,128,538,456,41,1011,27,40,67.5,29,1,859,4320,2425,927,858,92.6,10,8,Match Report
+2015-05-30,21:30 ,Copa del Rey,Final,Sat,Away,W,3,1,Athletic Club,,,,,,,,,,,,,,,,,,,,,Match Report
+2015-06-06,20:45 ,Champions Lg,Final,Sat,Away,W,3,1,it Juventus,,,,,,,,,,,,,,,,,,,,,Match Report

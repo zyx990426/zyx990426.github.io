@@ -1,0 +1,52 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,#Pl,Megs,Carries,TotDist,PrgDist,Targ,Rec,Rec%,Miscon,Dispos,Match Report
+2019-08-16,21:00 ,La Liga,Matchweek 1,Fri,Away,L,0,1,Athletic Club,795,68,212,407,243,19,747,8,16,50.0,10,0,603,3213,1679,687,607,88.4,7,5,Match Report
+2019-08-25,21:00 ,La Liga,Matchweek 2,Sun,Home,W,5,2,Betis,940,35,136,487,384,64,895,10,19,52.6,10,1,660,3574,2173,814,749,92.0,19,13,Match Report
+2019-08-31,17:00 ,La Liga,Matchweek 3,Sat,Away,D,2,2,Osasuna,883,68,238,477,242,18,829,9,18,50.0,9,0,601,3811,2266,739,669,90.5,18,9,Match Report
+2019-09-14,21:00 ,La Liga,Matchweek 4,Sat,Home,W,5,2,Valencia,885,49,147,446,368,41,856,12,18,66.7,12,0,713,4025,2188,784,723,92.2,7,7,Match Report
+2019-09-17,21:00 ,Champions Lg,Group stage,Tue,Away,D,0,0,de Dortmund,806,85,199,399,271,24,769,10,19,52.6,13,0,612,3540,1931,694,606,87.3,9,14,Match Report
+2019-09-21,21:00 ,La Liga,Matchweek 5,Sat,Away,L,0,2,Granada,784,54,205,437,198,30,729,10,20,50.0,12,1,602,3641,2247,675,610,90.4,6,8,Match Report
+2019-09-24,21:00 ,La Liga,Matchweek 6,Tue,Home,W,2,1,Villarreal,795,69,211,376,247,50,740,11,19,57.9,11,1,575,3339,1789,668,597,89.4,15,11,Match Report
+2019-09-28,16:00 ,La Liga,Matchweek 7,Sat,Away,W,2,0,Getafe,610,74,237,290,118,12,560,12,17,70.6,12,0,401,2312,1180,461,398,86.3,13,14,Match Report
+2019-10-02,21:00 ,Champions Lg,Group stage,Wed,Home,W,2,1,it Inter,891,53,162,438,364,38,857,23,28,82.1,25,2,746,4068,2261,792,719,90.8,9,15,Match Report
+2019-10-06,21:00 ,La Liga,Matchweek 8,Sun,Home,W,4,0,Sevilla,719,94,245,344,185,27,681,18,30,60.0,20,1,531,3537,2065,581,533,91.7,14,15,Match Report
+2019-10-19,13:00 ,La Liga,Matchweek 9,Sat,Away,W,3,0,Eibar,728,104,302,327,143,27,683,11,17,64.7,13,2,495,2695,1469,606,529,87.3,12,5,Match Report
+2019-10-23,21:00 ,Champions Lg,Group stage,Wed,Away,W,2,1,cz Slavia Prague,692,86,251,341,144,38,642,22,34,64.7,24,0,464,2666,1511,523,443,84.7,12,15,Match Report
+2019-10-29,21:15 ,La Liga,Matchweek 11,Tue,Home,W,5,1,Valladolid,780,62,198,394,248,36,735,22,36,61.1,23,2,616,3239,1854,660,575,87.1,6,5,Match Report
+2019-11-02,16:00 ,La Liga,Matchweek 12,Sat,Away,L,1,3,Levante,799,70,252,379,226,22,758,9,19,47.4,9,0,589,3194,1880,684,613,89.6,11,9,Match Report
+2019-11-05,18:55 ,Champions Lg,Group stage,Tue,Home,D,0,0,cz Slavia Prague,777,92,252,437,138,21,725,20,33,60.6,23,3,570,3619,1961,642,571,88.9,8,7,Match Report
+2019-11-09,21:00 ,La Liga,Matchweek 13,Sat,Home,W,4,1,Celta Vigo,802,58,197,421,236,27,768,14,25,56.0,16,0,630,3239,1568,702,634,90.3,20,5,Match Report
+2019-11-23,13:00 ,La Liga,Matchweek 14,Sat,Away,W,2,1,Leganés,896,53,194,474,308,22,837,20,30,66.7,21,1,657,3800,2217,779,685,87.9,17,9,Match Report
+2019-11-27,21:00 ,Champions Lg,Group stage,Wed,Home,W,3,1,de Dortmund,730,75,216,365,194,34,699,18,26,69.2,18,1,472,2588,1498,620,554,89.4,18,7,Match Report
+2019-12-01,21:00 ,La Liga,Matchweek 15,Sun,Away,W,1,0,Atlético Madrid,840,85,219,456,232,20,797,11,18,61.1,12,2,636,3345,1879,705,634,89.9,9,13,Match Report
+2019-12-07,21:00 ,La Liga,Matchweek 16,Sat,Home,W,5,2,Mallorca,861,60,162,388,354,72,823,18,26,69.2,20,0,568,3171,1900,729,674,92.5,9,15,Match Report
+2019-12-10,21:00 ,Champions Lg,Group stage,Tue,Away,W,2,1,it Inter,840,101,267,426,195,18,796,11,15,73.3,12,0,642,3185,1791,701,613,87.4,12,16,Match Report
+2019-12-14,16:00 ,La Liga,Matchweek 17,Sat,Away,D,2,2,Real Sociedad,654,85,218,324,149,26,612,16,22,72.7,17,0,401,2528,1292,523,461,88.1,10,11,Match Report
+2019-12-18,20:00 ,La Liga,Matchweek 10,Wed,Home,D,0,0,Real Madrid,727,126,291,347,131,26,684,14,18,77.8,14,1,526,2851,1577,596,533,89.4,6,8,Match Report
+2019-12-21,16:00 ,La Liga,Matchweek 18,Sat,Home,W,4,1,Alavés,885,43,180,529,233,26,854,10,15,66.7,10,1,626,3376,1941,796,721,90.6,14,11,Match Report
+2020-01-04,21:00 ,La Liga,Matchweek 19,Sat,Away,D,2,2,Espanyol,859,81,229,499,185,28,815,22,29,75.9,23,2,692,3405,1990,728,673,92.4,12,15,Match Report
+2020-01-09,20:00 ,Supercopa de España,Semi-finals,Thu,Home,L,2,3,Atlético Madrid,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-01-19,21:00 ,La Liga,Matchweek 20,Sun,Home,W,1,0,Granada,1143,61,242,595,364,38,1108,10,20,50.0,11,2,965,3806,2037,1019,943,92.5,15,13,Match Report
+2020-01-22,19:00 ,Copa del Rey,Round of 32,Wed,Away,W,2,1,UD Ibiza,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-01-25,16:00 ,La Liga,Matchweek 21,Sat,Away,L,0,2,Valencia,978,58,189,515,344,28,946,7,13,53.8,8,0,783,3599,2006,838,814,97.1,13,6,Match Report
+2020-01-30,19:00 ,Copa del Rey,Round of 16,Thu,Home,W,5,0,Leganés,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-02-02,21:00 ,La Liga,Matchweek 22,Sun,Home,W,2,1,Levante,876,93,265,387,287,55,830,24,30,80.0,24,1,683,3658,2150,763,705,92.4,14,9,Match Report
+2020-02-06,21:00 ,Copa del Rey,Quarter-finals,Thu,Away,L,0,1,Athletic Club,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-02-09,21:00 ,La Liga,Matchweek 23,Sun,Away,W,3,2,Betis,837,79,259,438,189,36,791,7,12,58.3,7,0,696,3417,1861,682,670,98.2,4,15,Match Report
+2020-02-15,16:00 ,La Liga,Matchweek 24,Sat,Home,W,2,1,Getafe,811,99,328,426,117,16,755,13,25,52.0,13,1,623,3505,1901,705,620,87.9,10,6,Match Report
+2020-02-22,16:00 ,La Liga,Matchweek 25,Sat,Home,W,5,0,Eibar,852,113,290,421,190,35,807,9,20,45.0,9,1,551,2880,1674,733,638,87.0,10,9,Match Report
+2020-02-25,21:00 ,Champions Lg,Round of 16,Tue,Away,D,1,1,it Napoli,916,52,145,532,305,28,887,11,15,73.3,11,0,627,3270,1887,822,751,91.4,6,6,Match Report
+2020-03-01,21:00 ,La Liga,Matchweek 26,Sun,Away,L,0,2,Real Madrid,787,103,230,419,181,23,744,8,12,66.7,9,0,587,3385,1870,666,604,90.7,5,15,Match Report
+2020-03-07,18:30 ,La Liga,Matchweek 27,Sat,Home,W,1,0,Real Sociedad,653,94,241,296,159,29,618,13,18,72.2,15,0,467,2592,1401,553,467,84.4,9,6,Match Report
+2020-06-13,22:00 ,La Liga,Matchweek 28,Sat,Away,W,4,0,Mallorca,854,92,269,424,210,47,818,11,16,68.8,11,0,586,3163,1884,700,662,94.6,10,10,Match Report
+2020-06-16,22:00 ,La Liga,Matchweek 29,Tue,Home,W,2,0,Leganés,986,44,181,648,219,21,948,17,25,68.0,17,3,822,3302,1830,879,819,93.2,10,12,Match Report
+2020-06-19,22:00 ,La Liga,Matchweek 30,Fri,Away,D,0,0,Sevilla,858,71,186,432,296,19,813,9,17,52.9,10,0,641,2972,1692,752,660,87.8,8,3,Match Report
+2020-06-23,22:00 ,La Liga,Matchweek 31,Tue,Home,W,1,0,Athletic Club,925,68,227,456,299,32,875,22,31,71.0,22,1,708,3579,2034,815,715,87.7,7,10,Match Report
+2020-06-27,17:00 ,La Liga,Matchweek 32,Sat,Away,D,2,2,Celta Vigo,800,48,176,410,264,30,753,12,20,60.0,14,0,503,2992,1717,660,600,90.9,8,17,Match Report
+2020-06-30,22:00 ,La Liga,Matchweek 33,Tue,Home,D,2,2,Atlético Madrid,909,67,198,477,295,17,868,18,34,52.9,19,1,668,3735,2033,764,731,95.7,9,14,Match Report
+2020-07-05,22:00 ,La Liga,Matchweek 34,Sun,Away,W,4,1,Villarreal,936,61,225,551,228,41,906,13,24,54.2,15,0,676,3260,1849,850,785,92.4,6,5,Match Report
+2020-07-08,22:00 ,La Liga,Matchweek 35,Wed,Home,W,1,0,Espanyol,940,58,170,503,326,26,898,9,12,75.0,9,0,617,2975,1887,842,769,91.3,3,15,Match Report
+2020-07-11,19:30 ,La Liga,Matchweek 36,Sat,Away,W,1,0,Valladolid,865,84,229,511,195,23,825,14,23,60.9,16,0,563,3068,1955,733,664,90.6,11,6,Match Report
+2020-07-16,21:00 ,La Liga,Matchweek 37,Thu,Home,L,1,2,Osasuna,963,40,160,457,403,46,915,21,31,67.7,21,1,695,3646,2162,843,773,91.7,6,5,Match Report
+2020-07-19,17:00 ,La Liga,Matchweek 38,Sun,Away,W,5,0,Alavés,880,49,209,509,216,25,847,16,25,64.0,17,1,633,2669,1650,780,724,92.8,9,2,Match Report
+2020-08-08,21:00 ,Champions Lg,Round of 16,Sat,Home,W,3,1,it Napoli,730,107,261,386,126,20,694,22,27,81.5,22,0,491,2297,1313,604,559,92.5,11,9,Match Report
+2020-08-14,20:00 ,Champions Lg,Quarter-finals,Fri,Neutral,L,2,8,de Bayern Munich,589,96,233,295,91,9,537,11,14,78.6,11,0,364,1874,972,470,407,86.6,3,16,Match Report

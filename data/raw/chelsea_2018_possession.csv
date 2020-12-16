@@ -1,0 +1,64 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,#Pl,Megs,Carries,TotDist,PrgDist,Targ,Rec,Rec%,Miscon,Dispos,Match Report
+2018-08-05,15:00 ,Community Shield,FA Community Shield,Sun,Neutral,L,0,2,Manchester City,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-08-11,15:00 ,Premier League,Matchweek 1,Sat,Away,W,3,0,Huddersfield,798,71,217,432,201,22,757,22,30,73.3,23,0,623,2930,1547,662,597,90.2,11,20,Match Report
+2018-08-18,17:30 ,Premier League,Matchweek 2,Sat,Home,W,3,2,Arsenal,826,50,195,454,226,26,794,12,16,75.0,12,0,652,3199,1784,710,639,90.0,9,8,Match Report
+2018-08-26,16:00 ,Premier League,Matchweek 3,Sun,Away,W,2,1,Newcastle Utd,1023,44,161,463,449,42,989,11,12,91.7,11,1,860,3576,1895,866,830,95.8,9,12,Match Report
+2018-09-01,15:00 ,Premier League,Matchweek 4,Sat,Home,W,2,0,Bournemouth,851,59,238,373,283,46,811,5,8,62.5,6,1,671,3171,1726,691,633,91.6,9,9,Match Report
+2018-09-15,15:00 ,Premier League,Matchweek 5,Sat,Home,W,4,1,Cardiff City,892,61,210,488,248,25,854,7,7,100.0,7,1,681,3307,2017,729,698,95.7,21,12,Match Report
+2018-09-20,19:55 ,Europa Lg,Group stage,Thu,Away,W,1,0,gr PAOK,824,64,240,439,206,33,776,16,23,69.6,17,0,682,3178,1852,705,658,93.3,9,3,Match Report
+2018-09-23,13:30 ,Premier League,Matchweek 6,Sun,Away,D,0,0,West Ham,885,41,142,482,314,35,838,10,18,55.6,12,0,719,3119,1859,787,688,87.4,3,12,Match Report
+2018-09-26,19:45 ,EFL Cup,Third round,Wed,Away,W,2,1,Liverpool,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-09-29,17:30 ,Premier League,Matchweek 7,Sat,Home,D,1,1,Liverpool,686,89,323,244,143,18,642,4,9,44.4,5,0,478,1806,865,550,470,85.5,12,10,Match Report
+2018-10-04,20:00 ,Europa Lg,Group stage,Thu,Home,W,1,0,hu Vidi,854,43,130,417,370,47,790,21,33,63.6,22,1,666,3768,2211,722,661,91.6,9,7,Match Report
+2018-10-07,14:15 ,Premier League,Matchweek 8,Sun,Away,W,3,0,Southampton,805,50,169,399,299,50,748,22,30,73.3,22,0,622,2919,1644,668,606,90.7,7,16,Match Report
+2018-10-20,12:30 ,Premier League,Matchweek 9,Sat,Home,D,2,2,Manchester Utd,783,73,214,383,241,36,732,8,14,57.1,8,0,587,3238,2009,635,568,89.4,17,18,Match Report
+2018-10-25,20:00 ,Europa Lg,Group stage,Thu,Home,W,3,1,by BATE Borisov,947,58,218,478,302,56,904,30,49,61.2,34,2,794,3671,2384,819,750,91.6,12,10,Match Report
+2018-10-28,13:30 ,Premier League,Matchweek 10,Sun,Away,W,4,0,Burnley,920,63,277,528,158,23,877,6,9,66.7,6,0,757,2989,1619,803,740,92.2,5,10,Match Report
+2018-10-31,19:45 ,EFL Cup,Fourth round,Wed,Home,W,3,2,Derby County,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-11-04,16:00 ,Premier League,Matchweek 11,Sun,Home,W,3,1,Crystal Palace,994,64,243,539,277,25,951,6,15,40.0,8,0,838,4028,2165,837,816,97.5,7,13,Match Report
+2018-11-08,20:55 ,Europa Lg,Group stage,Thu,Away,W,1,0,by BATE Borisov,991,52,191,528,343,41,941,15,26,57.7,19,1,749,3757,2040,813,782,96.2,11,15,Match Report
+2018-11-11,14:15 ,Premier League,Matchweek 12,Sun,Home,D,0,0,Everton,830,45,196,475,215,17,779,7,13,53.8,7,1,651,3136,1889,718,636,88.6,16,10,Match Report
+2018-11-24,17:30 ,Premier League,Matchweek 13,Sat,Away,L,1,3,Tottenham,705,57,201,360,203,31,651,9,12,75.0,11,1,503,2969,1560,568,490,86.3,14,19,Match Report
+2018-11-29,20:00 ,Europa Lg,Group stage,Thu,Home,W,4,0,gr PAOK,766,24,98,453,260,40,722,9,14,64.3,9,0,618,2695,1700,664,604,91.0,6,12,Match Report
+2018-12-02,12:00 ,Premier League,Matchweek 14,Sun,Home,W,2,0,Fulham,871,80,288,443,205,24,823,9,19,47.4,9,0,640,3283,1953,709,657,92.7,17,11,Match Report
+2018-12-05,19:45 ,Premier League,Matchweek 15,Wed,Away,L,1,2,Wolves,834,56,233,453,206,22,775,8,15,53.3,9,1,639,3292,1859,695,623,89.6,11,12,Match Report
+2018-12-08,17:30 ,Premier League,Matchweek 16,Sat,Home,W,2,0,Manchester City,569,96,302,236,67,16,528,13,16,81.3,13,1,405,1949,893,438,371,84.7,8,17,Match Report
+2018-12-13,18:55 ,Europa Lg,Group stage,Thu,Away,D,2,2,hu Vidi,851,33,114,493,296,37,802,22,33,66.7,23,0,686,3627,2091,741,659,88.9,15,8,Match Report
+2018-12-16,13:30 ,Premier League,Matchweek 17,Sun,Away,W,2,1,Brighton,775,52,205,445,180,20,739,4,11,36.4,4,0,481,2820,1756,645,572,88.7,9,15,Match Report
+2018-12-19,19:45 ,EFL Cup,Quarter-finals,Wed,Home,W,1,0,Bournemouth,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-12-22,15:00 ,Premier League,Matchweek 18,Sat,Home,L,0,1,Leicester City,881,57,199,405,336,33,836,12,23,52.2,13,4,658,3376,2273,735,639,86.9,11,14,Match Report
+2018-12-26,19:30 ,Premier League,Matchweek 19,Wed,Away,W,2,1,Watford,868,64,250,409,265,32,832,14,22,63.6,14,0,693,3483,1901,732,662,90.4,18,15,Match Report
+2018-12-30,12:00 ,Premier League,Matchweek 20,Sun,Away,W,1,0,Crystal Palace,917,49,176,486,324,19,876,8,11,72.7,8,0,715,3470,2077,803,707,88.0,15,12,Match Report
+2019-01-02,19:45 ,Premier League,Matchweek 21,Wed,Home,D,0,0,Southampton,917,67,250,443,286,29,859,17,24,70.8,20,0,716,3667,2131,788,667,84.6,20,19,Match Report
+2019-01-05,15:00 ,FA Cup,Third round,Sat,Home,W,2,0,Nott'ham Forest,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-01-08,20:00 ,EFL Cup,Semi-finals,Tue,Away,L,0,1,Tottenham,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-01-12,17:30 ,Premier League,Matchweek 22,Sat,Home,W,2,1,Newcastle Utd,866,59,221,471,229,24,817,13,22,59.1,15,0,660,3160,1809,715,628,87.8,15,17,Match Report
+2019-01-19,17:30 ,Premier League,Matchweek 23,Sat,Away,L,0,2,Arsenal,816,68,221,341,314,46,766,14,26,53.8,15,1,577,3319,1898,679,586,86.3,13,27,Match Report
+2019-01-24,19:45 ,EFL Cup,Semi-finals,Thu,Home,W,2 (4),1 (2),Tottenham,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-01-27,18:00 ,FA Cup,Fourth round,Sun,Home,W,3,0,Sheffield Weds,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-01-30,19:45 ,Premier League,Matchweek 24,Wed,Away,L,0,4,Bournemouth,869,48,206,372,364,37,829,11,14,78.6,13,0,704,3632,2045,755,672,89.0,15,9,Match Report
+2019-02-02,15:00 ,Premier League,Matchweek 25,Sat,Home,W,5,0,Huddersfield,871,50,233,431,269,43,832,26,32,81.3,26,0,699,3450,2161,747,671,89.8,8,14,Match Report
+2019-02-10,16:00 ,Premier League,Matchweek 26,Sun,Away,L,0,6,Manchester City,652,71,216,306,177,31,618,8,9,88.9,9,0,505,2784,1363,552,491,88.9,12,8,Match Report
+2019-02-14,21:00 ,Europa Lg,Round of 32,Thu,Away,W,2,1,se Malmö,922,65,246,507,218,29,875,15,22,68.2,15,0,747,3595,2059,786,727,92.5,6,13,Match Report
+2019-02-18,19:30 ,FA Cup,Fifth round,Mon,Home,L,0,2,Manchester Utd,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-02-21,20:00 ,Europa Lg,Round of 32,Thu,Home,W,3,0,se Malmö,849,48,200,506,193,26,810,15,18,83.3,15,0,670,3322,1786,723,649,89.8,16,11,Match Report
+2019-02-24,16:30 ,EFL Cup,Final,Sun,Home,D,0 (3),0 (4),Manchester City,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-02-27,20:00 ,Premier League,Matchweek 28,Wed,Home,W,2,0,Tottenham,651,59,222,298,179,19,608,9,11,81.8,9,1,446,2586,1340,517,423,81.8,13,22,Match Report
+2019-03-03,14:05 ,Premier League,Matchweek 29,Sun,Away,W,2,1,Fulham,829,78,251,431,210,39,792,7,12,58.3,7,0,647,3476,2128,697,645,92.5,12,11,Match Report
+2019-03-07,20:00 ,Europa Lg,Round of 16,Thu,Home,W,3,0,ua Dynamo Kyiv,793,59,228,423,194,37,737,18,24,75.0,18,0,620,3179,1669,672,600,89.3,14,15,Match Report
+2019-03-10,14:05 ,Premier League,Matchweek 30,Sun,Home,D,1,1,Wolves,995,24,149,491,432,28,930,29,46,63.0,31,0,824,4661,2689,866,779,90.0,8,16,Match Report
+2019-03-14,19:55 ,Europa Lg,Round of 16,Thu,Away,W,5,0,ua Dynamo Kyiv,761,70,244,419,149,25,712,19,32,59.4,21,2,598,3086,1746,643,580,90.2,12,7,Match Report
+2019-03-17,16:30 ,Premier League,Matchweek 31,Sun,Away,L,0,2,Everton,821,53,225,439,231,39,764,7,11,63.6,8,0,590,3500,2112,696,598,85.9,11,14,Match Report
+2019-03-31,14:05 ,Premier League,Matchweek 32,Sun,Away,W,2,1,Cardiff City,751,55,233,380,210,27,706,12,17,70.6,13,0,510,3728,2384,602,525,87.2,9,21,Match Report
+2019-04-03,19:45 ,Premier League,Matchweek 27,Wed,Home,W,3,0,Brighton,890,33,141,453,363,37,854,11,18,61.1,11,0,628,3491,2380,759,702,92.5,17,10,Match Report
+2019-04-08,20:00 ,Premier League,Matchweek 33,Mon,Home,W,2,0,West Ham,623,49,174,283,235,36,584,16,26,61.5,17,2,444,3242,2150,510,435,85.3,8,8,Match Report
+2019-04-11,21:00 ,Europa Lg,Quarter-finals,Thu,Away,W,1,0,cz Slavia Prague,742,90,293,377,121,23,693,9,16,56.3,9,1,523,3197,1731,600,508,84.7,15,13,Match Report
+2019-04-14,16:30 ,Premier League,Matchweek 34,Sun,Away,L,0,2,Liverpool,572,95,255,216,134,21,535,11,19,57.9,12,0,364,2186,1371,424,348,82.1,12,20,Match Report
+2019-04-18,20:00 ,Europa Lg,Quarter-finals,Thu,Home,W,4,3,cz Slavia Prague,680,106,312,298,105,23,626,13,22,59.1,15,2,487,2497,1314,560,477,85.2,15,15,Match Report
+2019-04-22,20:00 ,Premier League,Matchweek 35,Mon,Home,D,2,2,Burnley,849,46,221,359,348,70,801,12,16,75.0,12,1,633,4152,2776,730,630,86.3,14,9,Match Report
+2019-04-28,16:30 ,Premier League,Matchweek 36,Sun,Away,D,1,1,Manchester Utd,582,63,188,243,200,26,543,7,13,53.8,8,0,417,2736,1616,456,386,84.6,10,11,Match Report
+2019-05-02,21:00 ,Europa Lg,Semi-finals,Thu,Away,D,1,1,de Eint Frankfurt,757,49,200,362,247,36,697,20,29,69.0,20,1,509,3107,1651,585,523,89.4,20,16,Match Report
+2019-05-05,14:00 ,Premier League,Matchweek 37,Sun,Home,W,3,0,Watford,708,72,209,313,233,44,669,14,17,82.4,14,0,480,2770,1655,563,481,85.4,12,11,Match Report
+2019-05-09,20:00 ,Europa Lg,Semi-finals,Thu,Home,W,1 (4),1 (3),de Eint Frankfurt,906,103,306,415,248,40,821,18,24,75.0,18,0,599,3673,2216,704,572,81.3,29,20,Match Report
+2019-05-12,15:00 ,Premier League,Matchweek 38,Sun,Away,D,0,0,Leicester City,680,64,192,316,235,31,636,14,16,87.5,14,0,496,3177,1844,549,494,90.0,10,15,Match Report
+2019-05-29,23:00 ,Europa Lg,Final,Wed,Home,W,4,1,eng Arsenal,580,69,190,275,144,30,525,9,18,50.0,9,0,409,2078,1129,453,394,87.0,20,8,Match Report

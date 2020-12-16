@@ -1,0 +1,61 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,#Pl,Megs,Carries,TotDist,PrgDist,Targ,Rec,Rec%,Miscon,Dispos,Match Report
+2018-08-12,21:00 ,Supercopa de España,Supercopa de España,Sun,Neutral,W,2,1,Sevilla,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-08-18,22:15 ,La Liga,Matchweek 1,Sat,Home,W,3,0,Alavés,968,35,145,476,400,59,941,13,21,61.9,14,0,778,4129,2196,878,792,90.2,9,9,Match Report
+2018-08-25,22:15 ,La Liga,Matchweek 2,Sat,Away,W,1,0,Valladolid,714,52,189,354,225,36,678,13,19,68.4,14,1,535,2929,1823,594,511,86.0,14,15,Match Report
+2018-09-02,18:30 ,La Liga,Matchweek 3,Sun,Home,W,8,2,Huesca,810,40,140,400,325,47,773,10,17,58.8,10,0,658,2975,1769,669,642,96.0,6,10,Match Report
+2018-09-15,16:15 ,La Liga,Matchweek 4,Sat,Away,W,2,1,Real Sociedad,896,40,171,549,233,31,854,20,33,60.6,20,0,706,3327,1653,777,697,89.7,10,11,Match Report
+2018-09-18,18:55 ,Champions Lg,Group stage,Tue,Home,W,4,0,nl PSV Eindhoven,921,71,186,478,311,31,875,5,11,45.5,5,0,744,3512,1941,782,741,94.8,7,9,Match Report
+2018-09-23,20:45 ,La Liga,Matchweek 5,Sun,Home,D,2,2,Girona,878,34,135,527,274,34,838,14,25,56.0,16,1,670,3493,2065,762,701,92.0,16,9,Match Report
+2018-09-26,20:00 ,La Liga,Matchweek 6,Wed,Away,L,1,2,Leganés,945,58,197,527,274,23,894,18,27,66.7,18,1,768,3291,1730,814,758,93.1,12,8,Match Report
+2018-09-29,16:15 ,La Liga,Matchweek 7,Sat,Home,D,1,1,Athletic Club,837,52,202,448,249,36,779,24,33,72.7,25,3,636,3416,1945,666,603,90.5,19,15,Match Report
+2018-10-03,20:00 ,Champions Lg,Group stage,Wed,Away,W,4,2,eng Tottenham,816,65,248,471,148,22,759,16,26,61.5,16,1,618,2785,1321,698,625,89.5,3,15,Match Report
+2018-10-07,20:45 ,La Liga,Matchweek 8,Sun,Away,D,1,1,Valencia,1122,50,188,541,461,36,1088,24,29,82.8,24,1,910,3952,2129,1023,937,91.6,14,7,Match Report
+2018-10-20,20:45 ,La Liga,Matchweek 9,Sat,Home,W,4,2,Sevilla,653,87,248,315,136,25,595,13,19,68.4,13,0,448,2698,1632,502,448,89.2,11,18,Match Report
+2018-10-24,21:00 ,Champions Lg,Group stage,Wed,Home,W,2,0,it Inter,911,53,198,482,292,27,870,15,18,83.3,15,1,752,3249,1692,779,716,91.9,10,18,Match Report
+2018-10-28,16:15 ,La Liga,Matchweek 10,Sun,Home,W,5,1,Real Madrid,691,67,186,376,163,33,648,15,26,57.7,18,3,522,2317,1349,564,508,90.1,10,8,Match Report
+2018-10-31,21:30 ,Copa del Rey,Round of 32,Wed,Away,W,1,0,Leonesa,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-11-03,20:45 ,La Liga,Matchweek 11,Sat,Away,W,3,2,Rayo Vallecano,842,53,187,495,223,24,792,6,8,75.0,7,0,634,3127,1615,725,639,88.1,11,8,Match Report
+2018-11-06,21:00 ,Champions Lg,Group stage,Tue,Away,D,1,1,it Inter,908,69,202,485,276,34,862,24,36,66.7,26,0,684,3364,1841,778,701,90.1,14,6,Match Report
+2018-11-11,16:15 ,La Liga,Matchweek 12,Sun,Home,L,3,4,Betis,651,56,161,307,222,42,598,14,22,63.6,14,2,441,2300,1297,539,464,86.1,7,12,Match Report
+2018-11-24,20:45 ,La Liga,Matchweek 13,Sat,Away,D,1,1,Atlético Madrid,870,52,180,508,246,20,832,23,38,60.5,23,2,686,3289,1755,746,680,91.2,10,17,Match Report
+2018-11-28,21:00 ,Champions Lg,Group stage,Wed,Away,W,2,1,nl PSV Eindhoven,821,73,251,420,197,37,777,24,35,68.6,25,0,608,2738,1553,682,592,86.8,9,9,Match Report
+2018-12-02,18:30 ,La Liga,Matchweek 14,Sun,Home,W,2,0,Villarreal,820,43,171,425,279,31,774,28,41,68.3,30,1,683,3180,1797,711,644,90.6,5,7,Match Report
+2018-12-05,21:30 ,Copa del Rey,Round of 32,Wed,Home,W,4,1,Leonesa,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-12-08,20:45 ,La Liga,Matchweek 15,Sat,Away,W,4,0,Espanyol,732,81,243,377,164,29,695,16,27,59.3,17,1,513,2859,1649,603,535,88.7,9,8,Match Report
+2018-12-11,21:00 ,Champions Lg,Group stage,Tue,Home,D,1,1,eng Tottenham,671,77,256,336,122,19,630,9,15,60.0,11,0,478,2736,1513,524,471,89.9,15,10,Match Report
+2018-12-16,20:45 ,La Liga,Matchweek 16,Sun,Away,W,5,0,Levante,686,94,262,345,122,21,650,15,22,68.2,15,2,513,2545,1623,556,496,89.2,9,10,Match Report
+2018-12-22,18:30 ,La Liga,Matchweek 17,Sat,Home,W,2,0,Celta Vigo,689,79,226,337,166,23,648,15,31,48.4,15,0,541,2507,1351,581,508,87.4,10,3,Match Report
+2019-01-06,20:45 ,La Liga,Matchweek 18,Sun,Away,W,2,1,Getafe,870,78,313,476,152,19,827,15,23,65.2,15,1,676,3588,1795,750,693,92.4,14,11,Match Report
+2019-01-10,21:30 ,Copa del Rey,Round of 16,Thu,Away,L,1,2,Levante,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-01-13,18:30 ,La Liga,Matchweek 19,Sun,Home,W,3,0,Eibar,762,107,358,347,107,20,721,20,27,74.1,21,2,540,2989,1498,635,554,87.2,12,9,Match Report
+2019-01-17,21:30 ,Copa del Rey,Round of 16,Thu,Home,W,3,0,Levante,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-01-20,20:45 ,La Liga,Matchweek 20,Sun,Home,W,3,1,Leganés,930,55,222,481,277,39,878,30,44,68.2,31,2,694,3994,2175,817,725,88.7,13,12,Match Report
+2019-01-23,21:30 ,Copa del Rey,Quarter-finals,Wed,Away,L,0,2,Sevilla,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-01-27,16:15 ,La Liga,Matchweek 21,Sun,Away,W,2,0,Girona,778,78,254,335,230,32,725,15,26,57.7,18,1,550,2978,1630,658,582,88.4,9,8,Match Report
+2019-01-30,21:30 ,Copa del Rey,Quarter-finals,Wed,Home,W,6,1,Sevilla,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-02-02,18:30 ,La Liga,Matchweek 22,Sat,Home,D,2,2,Valencia,908,40,139,427,415,50,873,12,22,54.5,12,0,753,3726,1824,802,721,89.9,11,11,Match Report
+2019-02-06,21:00 ,Copa del Rey,Semi-finals,Wed,Home,D,1,1,Real Madrid,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-02-10,20:45 ,La Liga,Matchweek 23,Sun,Away,D,0,0,Athletic Club,825,67,216,412,260,25,780,10,23,43.5,12,1,598,3101,1858,708,634,89.5,7,5,Match Report
+2019-02-16,20:45 ,La Liga,Matchweek 24,Sat,Home,W,1,0,Valladolid,883,62,204,460,294,38,842,13,26,50.0,14,1,657,3680,2352,729,662,90.8,15,15,Match Report
+2019-02-19,21:00 ,Champions Lg,Round of 16,Tue,Away,D,0,0,fr Lyon,826,40,138,426,329,46,783,15,20,75.0,15,0,648,3143,2062,710,629,88.6,7,10,Match Report
+2019-02-23,16:15 ,La Liga,Matchweek 25,Sat,Away,W,4,2,Sevilla,723,77,247,330,203,32,673,10,20,50.0,11,0,500,2711,1675,579,508,87.7,11,7,Match Report
+2019-02-27,21:00 ,Copa del Rey,Semi-finals,Wed,Away,W,3,0,Real Madrid,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-03-02,20:45 ,La Liga,Matchweek 26,Sat,Away,W,1,0,Real Madrid,685,106,220,335,173,27,641,15,20,75.0,17,0,503,2247,1265,531,459,86.4,12,14,Match Report
+2019-03-09,18:30 ,La Liga,Matchweek 27,Sat,Home,W,3,1,Rayo Vallecano,838,33,131,373,385,42,799,9,17,52.9,10,2,674,3010,1657,730,657,90.0,18,14,Match Report
+2019-03-13,21:00 ,Champions Lg,Round of 16,Wed,Home,W,5,1,fr Lyon,720,56,218,354,193,39,675,16,19,84.2,16,0,544,2415,1386,599,530,88.5,13,12,Match Report
+2019-03-17,20:45 ,La Liga,Matchweek 28,Sun,Away,W,4,1,Betis,605,73,201,269,163,30,570,9,15,60.0,11,0,428,2140,1141,480,424,88.3,7,11,Match Report
+2019-03-30,16:15 ,La Liga,Matchweek 29,Sat,Home,W,2,0,Espanyol,829,48,189,379,311,45,794,12,25,48.0,13,0,672,3241,1964,719,628,87.3,8,10,Match Report
+2019-04-02,21:30 ,La Liga,Matchweek 30,Tue,Away,D,4,4,Villarreal,801,52,159,456,248,28,757,9,12,75.0,9,2,646,3080,1708,705,636,90.2,7,12,Match Report
+2019-04-06,20:45 ,La Liga,Matchweek 31,Sat,Home,W,2,0,Atlético Madrid,865,42,164,417,338,39,824,17,30,56.7,19,1,715,3334,2054,756,686,90.7,7,12,Match Report
+2019-04-10,20:00 ,Champions Lg,Quarter-finals,Wed,Away,W,1,0,eng Manchester Utd,927,82,250,519,207,23,882,9,18,50.0,9,1,658,2459,1307,821,748,91.1,10,7,Match Report
+2019-04-13,16:15 ,La Liga,Matchweek 32,Sat,Away,D,0,0,Huesca,809,64,252,464,157,17,764,13,22,59.1,13,3,539,3362,1968,668,596,89.2,14,18,Match Report
+2019-04-16,21:00 ,Champions Lg,Quarter-finals,Tue,Home,W,3,0,eng Manchester Utd,920,55,209,538,234,25,869,12,20,60.0,12,4,754,3480,1990,820,758,92.4,12,13,Match Report
+2019-04-20,20:45 ,La Liga,Matchweek 33,Sat,Home,W,2,1,Real Sociedad,665,70,210,311,181,26,628,11,21,52.4,11,0,437,2435,1306,559,468,83.7,9,8,Match Report
+2019-04-23,21:30 ,La Liga,Matchweek 34,Tue,Away,W,2,0,Alavés,914,64,204,506,261,37,859,13,23,56.5,15,0,687,3601,2256,790,719,91.0,10,9,Match Report
+2019-04-27,20:45 ,La Liga,Matchweek 35,Sat,Home,W,1,0,Levante,751,54,183,376,253,36,714,27,33,81.8,28,0,566,3586,2202,623,561,90.0,4,17,Match Report
+2019-05-01,21:00 ,Champions Lg,Semi-finals,Wed,Home,W,3,0,eng Liverpool,674,99,296,308,109,27,637,18,23,78.3,18,1,498,2379,1562,528,460,87.1,16,11,Match Report
+2019-05-04,20:45 ,La Liga,Matchweek 36,Sat,Away,L,0,2,Celta Vigo,744,64,203,432,161,10,705,11,14,78.6,11,2,547,3126,1759,651,592,90.9,17,6,Match Report
+2019-05-07,20:00 ,Champions Lg,Semi-finals,Tue,Away,L,0,4,eng Liverpool,726,85,251,350,163,25,676,9,18,50.0,9,0,473,2387,1371,605,510,84.3,7,9,Match Report
+2019-05-12,18:30 ,La Liga,Matchweek 37,Sun,Home,W,2,0,Getafe,1051,75,284,550,290,33,1005,15,20,75.0,18,0,872,4168,2227,899,829,92.2,16,16,Match Report
+2019-05-19,16:15 ,La Liga,Matchweek 38,Sun,Away,D,2,2,Eibar,787,96,333,364,130,22,742,11,11,100.0,11,0,551,2414,1179,638,567,88.9,18,6,Match Report
+2019-05-25,21:00 ,Copa del Rey,Final,Sat,Neutral,L,1,2,Valencia,,,,,,,,,,,,,,,,,,,,,Match Report

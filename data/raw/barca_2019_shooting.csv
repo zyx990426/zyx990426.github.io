@@ -1,0 +1,52 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Gls,Sh,SoT,SoT%,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Match Report
+2019-08-16,21:00 ,La Liga,Matchweek 1,Fri,Away,L,0,1,Athletic Club,0,11,2,18.2,0.00,0.00,13.1,0,0,0,0.9,0.9,0.08,-0.9,-0.9,Match Report
+2019-08-25,21:00 ,La Liga,Matchweek 2,Sun,Home,W,5,2,Betis,5,21,7,33.3,0.24,0.71,15.5,0,0,0,1.8,1.8,0.09,+3.2,+3.2,Match Report
+2019-08-31,17:00 ,La Liga,Matchweek 3,Sat,Away,D,2,2,Osasuna,2,8,4,50.0,0.25,0.50,20.3,0,0,0,0.3,0.3,0.04,+1.7,+1.7,Match Report
+2019-09-14,21:00 ,La Liga,Matchweek 4,Sat,Home,W,5,2,Valencia,5,17,10,58.8,0.29,0.50,19.2,0,0,0,2.0,2.0,0.13,+3.0,+3.0,Match Report
+2019-09-17,21:00 ,Champions Lg,Group stage,Tue,Away,D,0,0,de Dortmund,0,7,1,14.3,0.00,0.00,13.1,0,0,0,0.5,0.5,0.07,-0.5,-0.5,Match Report
+2019-09-21,21:00 ,La Liga,Matchweek 5,Sat,Away,L,0,2,Granada,0,8,1,12.5,0.00,0.00,20.9,2,0,0,0.7,0.7,0.09,-0.7,-0.7,Match Report
+2019-09-24,21:00 ,La Liga,Matchweek 6,Tue,Home,W,2,1,Villarreal,2,9,4,44.4,0.22,0.50,15.4,1,0,0,0.7,0.7,0.07,+1.3,+1.3,Match Report
+2019-09-28,16:00 ,La Liga,Matchweek 7,Sat,Away,W,2,0,Getafe,2,10,6,60.0,0.20,0.33,19.8,0,0,0,1.4,1.4,0.14,+0.6,+0.6,Match Report
+2019-10-02,21:00 ,Champions Lg,Group stage,Wed,Home,W,2,1,it Inter,2,17,7,41.2,0.12,0.29,20.9,2,0,0,1.3,1.3,0.08,+0.7,+0.7,Match Report
+2019-10-06,21:00 ,La Liga,Matchweek 8,Sun,Home,W,4,0,Sevilla,4,15,8,53.3,0.27,0.50,20.2,3,0,0,2.0,2.0,0.13,+2.0,+2.0,Match Report
+2019-10-19,13:00 ,La Liga,Matchweek 9,Sat,Away,W,3,0,Eibar,3,9,4,44.4,0.33,0.75,18.9,1,0,0,2.1,2.1,0.23,+0.9,+0.9,Match Report
+2019-10-23,21:00 ,Champions Lg,Group stage,Wed,Away,W,2,1,cz Slavia Prague,1,11,6,54.5,0.09,0.17,13.0,0,0,0,2.3,2.3,0.21,-1.3,-1.3,Match Report
+2019-10-29,21:15 ,La Liga,Matchweek 11,Tue,Home,W,5,1,Valladolid,5,18,9,50.0,0.28,0.56,16.0,3,0,0,3.1,3.1,0.17,+1.9,+1.9,Match Report
+2019-11-02,16:00 ,La Liga,Matchweek 12,Sat,Away,L,1,3,Levante,1,9,5,55.6,0.00,0.00,13.8,0,1,1,2.1,1.3,0.20,-1.1,-1.3,Match Report
+2019-11-05,18:55 ,Champions Lg,Group stage,Tue,Home,D,0,0,cz Slavia Prague,0,14,6,42.9,0.00,0.00,16.7,3,0,0,2.0,2.0,0.14,-2.0,-2.0,Match Report
+2019-11-09,21:00 ,La Liga,Matchweek 13,Sat,Home,W,4,1,Celta Vigo,4,8,6,75.0,0.38,0.50,20.3,2,1,1,1.7,0.9,0.13,+2.3,+2.1,Match Report
+2019-11-23,13:00 ,La Liga,Matchweek 14,Sat,Away,W,2,1,Leganés,2,11,6,54.5,0.18,0.33,15.4,0,0,0,1.6,1.6,0.15,+0.4,+0.4,Match Report
+2019-11-27,21:00 ,Champions Lg,Group stage,Wed,Home,W,3,1,de Dortmund,3,13,6,46.2,0.23,0.50,16.2,2,0,0,2.4,2.4,0.19,+0.6,+0.6,Match Report
+2019-12-01,21:00 ,La Liga,Matchweek 15,Sun,Away,W,1,0,Atlético Madrid,1,13,5,38.5,0.08,0.20,20.1,0,0,0,1.1,1.1,0.09,-0.1,-0.1,Match Report
+2019-12-07,21:00 ,La Liga,Matchweek 16,Sat,Home,W,5,2,Mallorca,5,25,17,68.0,0.20,0.29,13.7,0,0,0,3.4,3.4,0.14,+1.6,+1.6,Match Report
+2019-12-10,21:00 ,Champions Lg,Group stage,Tue,Away,W,2,1,it Inter,2,19,5,26.3,0.11,0.40,21.2,2,0,0,1.2,1.2,0.06,+0.8,+0.8,Match Report
+2019-12-14,16:00 ,La Liga,Matchweek 17,Sat,Away,D,2,2,Real Sociedad,2,9,4,44.4,0.22,0.50,13.8,0,0,0,2.0,2.0,0.22,0.0,0.0,Match Report
+2019-12-18,20:00 ,La Liga,Matchweek 10,Wed,Home,D,0,0,Real Madrid,0,9,1,11.1,0.00,0.00,16.5,1,0,0,0.9,0.9,0.10,-0.9,-0.9,Match Report
+2019-12-21,16:00 ,La Liga,Matchweek 18,Sat,Home,W,4,1,Alavés,4,7,3,42.9,0.43,1.00,16.7,1,1,1,1.2,0.5,0.09,+2.8,+2.5,Match Report
+2020-01-04,21:00 ,La Liga,Matchweek 19,Sat,Away,D,2,2,Espanyol,2,14,7,50.0,0.14,0.29,14.8,1,0,0,1.7,1.7,0.12,+0.3,+0.3,Match Report
+2020-01-09,20:00 ,Supercopa de España,Semi-finals,Thu,Home,L,2,3,Atlético Madrid,2,16,9,56.3,0.13,0.22,,,0,0,,,,,,Match Report
+2020-01-19,21:00 ,La Liga,Matchweek 20,Sun,Home,W,1,0,Granada,1,18,6,33.3,0.06,0.17,19.8,3,0,0,1.6,1.6,0.09,-0.6,-0.6,Match Report
+2020-01-22,19:00 ,Copa del Rey,Round of 32,Wed,Away,W,2,1,UD Ibiza,2,8,3,37.5,0.25,0.67,,,0,0,,,,,,Match Report
+2020-01-25,16:00 ,La Liga,Matchweek 21,Sat,Away,L,0,2,Valencia,0,14,5,35.7,0.00,0.00,19.6,4,0,0,1.1,1.1,0.08,-1.1,-1.1,Match Report
+2020-01-30,19:00 ,Copa del Rey,Round of 16,Thu,Home,W,5,0,Leganés,5,17,9,52.9,0.29,0.56,,,0,0,,,,,,Match Report
+2020-02-02,21:00 ,La Liga,Matchweek 22,Sun,Home,W,2,1,Levante,2,23,8,34.8,0.09,0.25,15.1,0,0,0,3.5,3.5,0.15,-1.5,-1.5,Match Report
+2020-02-06,21:00 ,Copa del Rey,Quarter-finals,Thu,Away,L,0,1,Athletic Club,0,11,5,45.5,0.00,0.00,,,0,0,,,,,,Match Report
+2020-02-09,21:00 ,La Liga,Matchweek 23,Sun,Away,W,3,2,Betis,3,10,6,60.0,0.30,0.50,12.1,0,0,0,1.5,1.5,0.15,+1.5,+1.5,Match Report
+2020-02-15,16:00 ,La Liga,Matchweek 24,Sat,Home,W,2,1,Getafe,2,12,5,41.7,0.17,0.40,17.1,1,0,0,1.8,1.8,0.15,+0.2,+0.2,Match Report
+2020-02-22,16:00 ,La Liga,Matchweek 25,Sat,Home,W,5,0,Eibar,5,13,10,76.9,0.38,0.50,11.1,1,0,0,3.9,3.9,0.34,+1.1,+1.1,Match Report
+2020-02-25,21:00 ,Champions Lg,Round of 16,Tue,Away,D,1,1,it Napoli,1,7,1,14.3,0.14,1.00,16.5,0,0,0,1.0,1.0,0.15,0.0,0.0,Match Report
+2020-03-01,21:00 ,La Liga,Matchweek 26,Sun,Away,L,0,2,Real Madrid,0,9,4,44.4,0.00,0.00,15.4,0,0,0,1.0,1.0,0.12,-1.0,-1.0,Match Report
+2020-03-07,18:30 ,La Liga,Matchweek 27,Sat,Home,W,1,0,Real Sociedad,1,12,5,41.7,0.00,0.00,15.1,1,1,1,1.9,1.2,0.11,-0.9,-1.2,Match Report
+2020-06-13,22:00 ,La Liga,Matchweek 28,Sat,Away,W,4,0,Mallorca,4,12,7,58.3,0.33,0.57,10.2,0,0,0,2.4,2.4,0.20,+1.6,+1.6,Match Report
+2020-06-16,22:00 ,La Liga,Matchweek 29,Tue,Home,W,2,0,Leganés,2,9,4,44.4,0.11,0.25,16.9,2,1,1,1.5,0.7,0.09,+0.5,+0.3,Match Report
+2020-06-19,22:00 ,La Liga,Matchweek 30,Fri,Away,D,0,0,Sevilla,0,10,3,30.0,0.00,0.00,20.8,3,0,0,0.6,0.6,0.06,-0.6,-0.6,Match Report
+2020-06-23,22:00 ,La Liga,Matchweek 31,Tue,Home,W,1,0,Athletic Club,1,18,5,27.8,0.06,0.20,17.5,2,0,0,1.7,1.7,0.09,-0.7,-0.7,Match Report
+2020-06-27,17:00 ,La Liga,Matchweek 32,Sat,Away,D,2,2,Celta Vigo,2,18,2,11.1,0.11,1.00,18.0,1,0,0,1.8,1.8,0.10,+0.2,+0.2,Match Report
+2020-06-30,22:00 ,La Liga,Matchweek 33,Tue,Home,D,2,2,Atlético Madrid,1,11,4,36.4,0.00,0.00,19.1,2,1,1,1.4,0.7,0.07,-0.4,-0.7,Match Report
+2020-07-05,22:00 ,La Liga,Matchweek 34,Sun,Away,W,4,1,Villarreal,3,18,13,72.2,0.17,0.23,14.5,2,0,0,3.0,3.0,0.17,0.0,0.0,Match Report
+2020-07-08,22:00 ,La Liga,Matchweek 35,Wed,Home,W,1,0,Espanyol,1,9,2,22.2,0.11,0.50,13.9,2,0,0,1.1,1.1,0.14,-0.1,-0.1,Match Report
+2020-07-11,19:30 ,La Liga,Matchweek 36,Sat,Away,W,1,0,Valladolid,1,10,6,60.0,0.10,0.17,16.5,1,0,0,1.4,1.4,0.14,-0.4,-0.4,Match Report
+2020-07-16,21:00 ,La Liga,Matchweek 37,Thu,Home,L,1,2,Osasuna,1,18,2,11.1,0.06,0.50,22.9,5,0,0,1.4,1.4,0.08,-0.4,-0.4,Match Report
+2020-07-19,17:00 ,La Liga,Matchweek 38,Sun,Away,W,5,0,Alavés,5,16,8,50.0,0.31,0.63,13.1,1,0,0,3.0,3.0,0.19,+2.0,+2.0,Match Report
+2020-08-08,21:00 ,Champions Lg,Round of 16,Sat,Home,W,3,1,it Napoli,3,6,3,50.0,0.33,0.67,16.9,0,1,1,1.2,0.4,0.09,+1.8,+1.6,Match Report
+2020-08-14,20:00 ,Champions Lg,Quarter-finals,Fri,Neutral,L,2,8,de Bayern Munich,1,7,5,71.4,0.14,0.20,15.0,0,0,0,1.3,1.3,0.18,-0.3,-0.3,Match Report

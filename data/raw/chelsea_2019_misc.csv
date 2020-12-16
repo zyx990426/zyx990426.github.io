@@ -1,0 +1,56 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
+2019-08-11,16:30 ,Premier League,Matchweek 1,Sun,Away,L,0,4,Manchester Utd,4,0,0,13,15,0,11,8,13,0,1,0,91,5,12,29.4,Match Report
+2019-08-14,22:00 ,Super Cup,UEFA Super Cup,Wed,Away,L,2 (4),2 (5),eng Liverpool,1,0,0,12,9,10,13,23,15,1,0,0,,,,,Match Report
+2019-08-18,16:30 ,Premier League,Matchweek 2,Sun,Home,D,1,1,Leicester City,1,0,0,9,14,3,11,7,17,0,0,0,98,17,14,54.8,Match Report
+2019-08-24,12:30 ,Premier League,Matchweek 3,Sat,Away,W,3,2,Norwich City,1,0,0,9,8,0,14,8,16,0,0,0,96,15,11,57.7,Match Report
+2019-08-31,15:00 ,Premier League,Matchweek 4,Sat,Home,D,2,2,Sheffield Utd,0,0,0,6,11,2,9,8,10,0,0,1,93,15,21,41.7,Match Report
+2019-09-14,15:00 ,Premier League,Matchweek 5,Sat,Away,W,5,2,Wolves,2,0,0,11,8,1,11,13,14,0,0,1,78,20,14,58.8,Match Report
+2019-09-17,20:00 ,Champions Lg,Group stage,Tue,Home,L,0,1,es Valencia,2,0,0,24,9,0,17,8,7,0,0,0,78,18,8,69.2,Match Report
+2019-09-22,16:30 ,Premier League,Matchweek 6,Sun,Home,L,1,2,Liverpool,3,0,0,8,13,7,25,5,9,0,0,0,119,19,16,54.3,Match Report
+2019-09-25,19:45 ,EFL Cup,Third round,Wed,Home,W,7,1,Grimsby Town,0,0,0,9,11,3,17,5,5,,,0,,,,,Match Report
+2019-09-28,15:00 ,Premier League,Matchweek 7,Sat,Home,W,2,0,Brighton,2,0,0,5,11,1,14,11,9,1,0,0,89,11,13,45.8,Match Report
+2019-10-02,21:00 ,Champions Lg,Group stage,Wed,Away,W,2,1,fr Lille,1,0,0,6,11,0,19,5,22,0,0,0,94,19,8,70.4,Match Report
+2019-10-06,14:00 ,Premier League,Matchweek 8,Sun,Away,W,4,1,Southampton,1,0,0,15,7,0,9,9,22,0,0,0,104,26,14,65.0,Match Report
+2019-10-19,15:00 ,Premier League,Matchweek 9,Sat,Home,W,1,0,Newcastle Utd,2,0,0,9,12,1,12,3,14,0,0,0,84,14,10,58.3,Match Report
+2019-10-23,18:55 ,Champions Lg,Group stage,Wed,Away,W,1,0,nl Ajax,1,0,0,16,13,1,8,2,13,0,0,0,87,19,12,61.3,Match Report
+2019-10-26,17:30 ,Premier League,Matchweek 10,Sat,Away,W,4,2,Burnley,2,0,0,8,7,0,10,7,8,0,0,0,102,17,16,51.5,Match Report
+2019-10-30,20:05 ,EFL Cup,Fourth round,Wed,Home,L,1,2,Manchester Utd,2,0,0,15,13,0,20,13,13,,,0,,,,,Match Report
+2019-11-02,17:30 ,Premier League,Matchweek 11,Sat,Away,W,2,1,Watford,2,0,0,5,8,0,7,7,12,0,1,0,88,10,12,45.5,Match Report
+2019-11-05,20:00 ,Champions Lg,Group stage,Tue,Home,D,4,4,nl Ajax,2,0,0,10,11,5,20,5,8,1,0,2,104,22,11,66.7,Match Report
+2019-11-09,12:30 ,Premier League,Matchweek 12,Sat,Home,W,2,0,Crystal Palace,3,0,0,9,17,0,11,11,10,0,0,0,89,14,13,51.9,Match Report
+2019-11-23,17:30 ,Premier League,Matchweek 13,Sat,Away,L,1,2,Manchester City,1,0,0,9,5,4,8,9,13,0,0,0,66,5,15,25.0,Match Report
+2019-11-27,18:55 ,Champions Lg,Group stage,Wed,Away,D,2,2,es Valencia,4,0,0,22,11,1,22,2,10,0,1,0,69,14,15,48.3,Match Report
+2019-11-30,15:00 ,Premier League,Matchweek 14,Sat,Home,L,0,1,West Ham,0,0,0,0,15,3,23,11,4,0,0,0,101,18,19,48.6,Match Report
+2019-12-04,19:30 ,Premier League,Matchweek 15,Wed,Home,W,2,1,Aston Villa,2,0,0,18,9,0,13,3,16,0,0,0,107,15,20,42.9,Match Report
+2019-12-07,12:30 ,Premier League,Matchweek 16,Sat,Away,L,1,3,Everton,0,0,0,9,14,3,20,7,11,0,0,0,105,23,25,47.9,Match Report
+2019-12-10,20:00 ,Champions Lg,Group stage,Tue,Home,W,2,1,fr Lille,1,0,0,10,7,0,16,4,11,0,0,0,119,16,15,51.6,Match Report
+2019-12-14,15:00 ,Premier League,Matchweek 17,Sat,Home,L,0,1,Bournemouth,1,0,0,9,14,3,24,5,12,0,0,0,131,32,21,60.4,Match Report
+2019-12-22,16:30 ,Premier League,Matchweek 18,Sun,Away,W,2,0,Tottenham,3,0,0,11,8,2,13,9,8,1,0,0,110,14,17,45.2,Match Report
+2019-12-26,15:00 ,Premier League,Matchweek 19,Thu,Home,L,0,2,Southampton,3,0,0,10,9,1,17,11,20,0,0,0,139,33,26,55.9,Match Report
+2019-12-29,14:00 ,Premier League,Matchweek 20,Sun,Away,W,2,1,Arsenal,4,0,0,19,13,1,17,6,17,0,0,0,94,17,21,44.7,Match Report
+2020-01-01,12:30 ,Premier League,Matchweek 21,Wed,Away,D,1,1,Brighton,3,0,0,15,8,3,12,10,17,0,0,0,111,16,19,45.7,Match Report
+2020-01-05,14:01 ,FA Cup,Third round,Sun,Home,W,2,0,Nott'ham Forest,1,0,0,13,9,4,33,5,8,,,0,,,,,Match Report
+2020-01-11,15:00 ,Premier League,Matchweek 22,Sat,Home,W,3,0,Burnley,0,0,0,7,4,6,22,8,10,1,0,0,83,17,24,41.5,Match Report
+2020-01-18,17:30 ,Premier League,Matchweek 23,Sat,Away,L,0,1,Newcastle Utd,1,0,0,14,9,2,19,8,8,0,0,0,112,17,25,40.5,Match Report
+2020-01-21,20:15 ,Premier League,Matchweek 24,Tue,Home,D,2,2,Arsenal,2,0,0,11,6,2,29,9,8,1,0,0,84,22,13,62.9,Match Report
+2020-01-25,17:30 ,FA Cup,Fourth round,Sat,Away,W,2,1,Hull City,2,0,0,12,12,2,20,7,8,,,0,,,,,Match Report
+2020-02-01,12:30 ,Premier League,Matchweek 25,Sat,Away,D,2,2,Leicester City,2,0,0,14,14,1,11,5,13,0,0,0,100,14,10,58.3,Match Report
+2020-02-17,20:00 ,Premier League,Matchweek 26,Mon,Home,L,0,2,Manchester Utd,4,0,0,11,11,2,12,2,16,0,0,0,105,13,15,46.4,Match Report
+2020-02-22,12:30 ,Premier League,Matchweek 27,Sat,Home,W,2,1,Tottenham,1,0,0,14,13,1,6,8,21,0,0,1,97,10,18,35.7,Match Report
+2020-02-25,20:00 ,Champions Lg,Round of 16,Tue,Home,L,0,3,de Bayern Munich,1,1,0,7,9,2,7,7,8,0,0,0,74,17,14,54.8,Match Report
+2020-02-29,15:00 ,Premier League,Matchweek 28,Sat,Away,D,2,2,Bournemouth,2,0,0,5,8,2,22,6,12,0,0,0,108,26,18,59.1,Match Report
+2020-03-03,19:45 ,FA Cup,Fifth round,Tue,Home,W,2,0,Liverpool,0,0,0,12,12,3,11,13,9,,,0,,,,,Match Report
+2020-03-08,14:00 ,Premier League,Matchweek 29,Sun,Home,W,4,0,Everton,1,0,0,8,8,0,8,8,11,0,0,0,83,19,17,52.8,Match Report
+2020-06-21,16:15 ,Premier League,Matchweek 30,Sun,Away,W,2,1,Aston Villa,1,0,0,17,9,0,24,2,5,0,0,0,98,23,21,52.3,Match Report
+2020-06-25,20:15 ,Premier League,Matchweek 31,Thu,Home,W,2,1,Manchester City,1,0,0,13,2,3,10,7,4,0,0,0,72,17,5,77.3,Match Report
+2020-06-28,16:00 ,FA Cup,Quarter-finals,Sun,Away,W,1,0,Leicester City,0,0,0,7,8,2,11,9,11,,,0,,,,,Match Report
+2020-07-01,20:15 ,Premier League,Matchweek 32,Wed,Away,L,2,3,West Ham,1,0,0,9,9,2,23,3,14,1,0,0,92,18,24,42.9,Match Report
+2020-07-04,20:00 ,Premier League,Matchweek 33,Sat,Home,W,3,0,Watford,0,0,0,9,12,1,15,1,12,1,0,0,104,15,11,57.7,Match Report
+2020-07-07,18:00 ,Premier League,Matchweek 34,Tue,Away,W,3,2,Crystal Palace,0,0,0,10,11,0,9,11,10,0,0,0,100,15,34,30.6,Match Report
+2020-07-11,17:30 ,Premier League,Matchweek 35,Sat,Away,L,0,3,Sheffield Utd,0,0,0,6,8,0,23,5,6,0,0,0,94,29,29,50.0,Match Report
+2020-07-14,20:15 ,Premier League,Matchweek 36,Tue,Home,W,1,0,Norwich City,2,0,0,10,9,0,19,2,8,0,0,0,106,17,14,54.8,Match Report
+2020-07-19,18:00 ,FA Cup,Semi-finals,Sun,Neutral,W,3,1,Manchester Utd,0,0,0,21,9,1,21,14,10,,,0,,,,,Match Report
+2020-07-22,20:15 ,Premier League,Matchweek 37,Wed,Away,L,3,5,Liverpool,0,0,0,11,8,3,16,9,4,0,0,0,107,18,17,51.4,Match Report
+2020-07-26,16:00 ,Premier League,Matchweek 38,Sun,Home,W,2,0,Wolves,2,0,0,10,16,3,8,6,15,0,0,0,116,24,23,51.1,Match Report
+2020-08-01,17:30 ,FA Cup,Final,Sat,Neutral,L,1,2,Arsenal,6,1,1,14,2,0,13,8,8,,,0,,,,,Match Report
+2020-08-08,21:00 ,Champions Lg,Round of 16,Sat,Away,L,1,4,de Bayern Munich,2,0,0,6,8,5,4,8,3,0,1,0,56,5,14,26.3,Match Report

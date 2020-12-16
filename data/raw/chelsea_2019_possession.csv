@@ -1,0 +1,56 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Succ,Att,Succ%,#Pl,Megs,Carries,TotDist,PrgDist,Targ,Rec,Rec%,Miscon,Dispos,Match Report
+2019-08-11,16:30 ,Premier League,Matchweek 1,Sun,Away,L,0,4,Manchester Utd,681,56,163,372,185,22,631,14,24,58.3,14,0,499,2722,1358,544,470,86.4,12,12,Match Report
+2019-08-14,22:00 ,Super Cup,UEFA Super Cup,Wed,Away,L,2 (4),2 (5),eng Liverpool,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-08-18,16:30 ,Premier League,Matchweek 2,Sun,Home,D,1,1,Leicester City,621,67,205,288,176,21,565,13,37,35.1,13,0,364,2450,1414,450,374,83.1,15,2,Match Report
+2019-08-24,12:30 ,Premier League,Matchweek 3,Sat,Away,W,3,2,Norwich City,707,49,191,342,227,37,659,29,32,90.6,30,0,554,2929,1540,563,487,86.5,14,21,Match Report
+2019-08-31,15:00 ,Premier League,Matchweek 4,Sat,Home,D,2,2,Sheffield Utd,850,69,340,421,153,23,807,8,14,57.1,9,1,650,3273,1735,744,651,87.5,7,10,Match Report
+2019-09-14,15:00 ,Premier League,Matchweek 5,Sat,Away,W,5,2,Wolves,734,86,279,356,145,25,686,12,17,70.6,12,0,508,2997,1471,565,502,88.8,17,16,Match Report
+2019-09-17,20:00 ,Champions Lg,Group stage,Tue,Home,L,0,1,es Valencia,733,41,171,391,230,36,687,13,19,68.4,13,0,583,2864,1569,611,556,91.0,12,7,Match Report
+2019-09-22,16:30 ,Premier League,Matchweek 6,Sun,Home,L,1,2,Liverpool,664,66,232,279,191,23,607,9,15,60.0,10,1,447,2337,1194,530,421,79.4,22,4,Match Report
+2019-09-25,19:45 ,EFL Cup,Third round,Wed,Home,W,7,1,Grimsby Town,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-09-28,15:00 ,Premier League,Matchweek 7,Sat,Home,W,2,0,Brighton,714,67,236,318,208,36,668,4,9,44.4,4,0,533,3197,1740,595,508,85.4,9,15,Match Report
+2019-10-02,21:00 ,Champions Lg,Group stage,Wed,Away,W,2,1,fr Lille,792,60,240,421,188,21,745,13,20,65.0,15,3,579,2621,1248,640,562,87.8,19,18,Match Report
+2019-10-06,14:00 ,Premier League,Matchweek 8,Sun,Away,W,4,1,Southampton,681,65,230,324,154,23,627,9,16,56.3,9,1,461,2073,973,544,422,77.6,9,13,Match Report
+2019-10-19,15:00 ,Premier League,Matchweek 9,Sat,Home,W,1,0,Newcastle Utd,798,35,168,435,238,41,743,9,12,75.0,9,0,567,3341,1883,617,574,93.0,17,12,Match Report
+2019-10-23,18:55 ,Champions Lg,Group stage,Wed,Away,W,1,0,nl Ajax,618,65,207,282,162,29,563,13,33,39.4,15,0,434,2849,1466,463,396,85.5,7,15,Match Report
+2019-10-26,17:30 ,Premier League,Matchweek 10,Sat,Away,W,4,2,Burnley,835,85,291,401,197,26,786,13,19,68.4,15,0,583,2933,1671,693,599,86.4,13,10,Match Report
+2019-10-30,20:05 ,EFL Cup,Fourth round,Wed,Home,L,1,2,Manchester Utd,,,,,,,,,,,,,,,,,,,,,Match Report
+2019-11-02,17:30 ,Premier League,Matchweek 11,Sat,Away,W,2,1,Watford,933,86,293,506,192,32,894,12,14,85.7,14,0,677,3753,2019,792,721,91.0,14,19,Match Report
+2019-11-05,20:00 ,Champions Lg,Group stage,Tue,Home,D,4,4,nl Ajax,575,59,188,270,163,44,538,24,28,85.7,24,1,375,2832,1734,417,355,85.1,15,10,Match Report
+2019-11-09,12:30 ,Premier League,Matchweek 12,Sat,Home,W,2,0,Crystal Palace,724,51,199,351,230,32,674,14,18,77.8,14,0,551,3345,1932,595,524,88.1,13,19,Match Report
+2019-11-23,17:30 ,Premier League,Matchweek 13,Sat,Away,L,1,2,Manchester City,770,109,333,366,120,22,738,16,21,76.2,17,0,578,2870,1516,648,582,89.8,8,10,Match Report
+2019-11-27,18:55 ,Champions Lg,Group stage,Wed,Away,D,2,2,es Valencia,598,73,189,280,171,43,555,15,27,55.6,16,0,425,2452,1542,468,403,86.1,8,10,Match Report
+2019-11-30,15:00 ,Premier League,Matchweek 14,Sat,Home,L,0,1,West Ham,853,47,217,448,250,27,797,29,43,67.4,31,0,617,3740,2213,698,622,89.1,14,11,Match Report
+2019-12-04,19:30 ,Premier League,Matchweek 15,Wed,Home,W,2,1,Aston Villa,804,58,204,411,236,45,760,18,25,72.0,18,1,565,2935,1689,642,578,90.0,11,20,Match Report
+2019-12-07,12:30 ,Premier League,Matchweek 16,Sat,Away,L,1,3,Everton,789,70,292,348,205,43,734,26,41,63.4,28,1,518,3173,1888,615,543,88.3,16,21,Match Report
+2019-12-10,20:00 ,Champions Lg,Group stage,Tue,Home,W,2,1,fr Lille,825,39,170,434,274,38,769,19,29,65.5,23,0,587,3098,1603,658,587,89.2,16,23,Match Report
+2019-12-14,15:00 ,Premier League,Matchweek 17,Sat,Home,L,0,1,Bournemouth,769,73,211,386,223,37,722,3,5,60.0,4,0,529,3122,1818,615,510,82.9,13,5,Match Report
+2019-12-22,16:30 ,Premier League,Matchweek 18,Sun,Away,W,2,0,Tottenham,707,56,226,321,210,27,668,15,22,68.2,17,0,469,2687,1309,577,488,84.6,14,13,Match Report
+2019-12-26,15:00 ,Premier League,Matchweek 19,Thu,Home,L,0,2,Southampton,887,63,240,413,287,33,830,23,32,71.9,25,0,639,3478,1898,702,589,83.9,19,26,Match Report
+2019-12-29,14:00 ,Premier League,Matchweek 20,Sun,Away,W,2,1,Arsenal,725,59,183,402,191,25,676,8,13,61.5,9,0,520,2748,1406,597,507,84.9,8,12,Match Report
+2020-01-01,12:30 ,Premier League,Matchweek 21,Wed,Away,D,1,1,Brighton,713,82,290,307,154,34,668,10,16,62.5,11,0,456,2342,1160,535,456,85.2,11,15,Match Report
+2020-01-05,14:01 ,FA Cup,Third round,Sun,Home,W,2,0,Nott'ham Forest,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-01-11,15:00 ,Premier League,Matchweek 22,Sat,Home,W,3,0,Burnley,721,59,207,337,217,42,667,8,14,57.1,10,1,526,2815,1653,564,502,89.0,18,9,Match Report
+2020-01-18,17:30 ,Premier League,Matchweek 23,Sat,Away,L,0,1,Newcastle Utd,810,28,145,355,370,38,760,5,11,45.5,5,0,603,3580,2231,691,584,84.5,9,11,Match Report
+2020-01-21,20:15 ,Premier League,Matchweek 24,Tue,Home,D,2,2,Arsenal,724,46,163,323,275,51,675,12,23,52.2,14,0,505,2853,1631,563,509,90.4,7,7,Match Report
+2020-01-25,17:30 ,FA Cup,Fourth round,Sat,Away,W,2,1,Hull City,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-02-01,12:30 ,Premier League,Matchweek 25,Sat,Away,D,2,2,Leicester City,655,69,217,332,141,20,598,8,18,44.4,10,0,371,2163,1100,470,408,86.8,18,24,Match Report
+2020-02-17,20:00 ,Premier League,Matchweek 26,Mon,Home,L,0,2,Manchester Utd,752,69,241,360,197,33,707,7,14,50.0,9,0,484,2669,1435,609,537,88.2,17,6,Match Report
+2020-02-22,12:30 ,Premier League,Matchweek 27,Sat,Home,W,2,1,Tottenham,718,57,195,408,145,21,676,14,17,82.4,15,1,524,2243,1040,538,473,87.9,13,15,Match Report
+2020-02-25,20:00 ,Champions Lg,Round of 16,Tue,Home,L,0,3,de Bayern Munich,536,79,214,252,101,20,491,15,23,65.2,16,0,315,1731,1009,414,341,82.4,8,8,Match Report
+2020-02-29,15:00 ,Premier League,Matchweek 28,Sat,Away,D,2,2,Bournemouth,983,66,263,443,324,48,931,11,13,84.6,11,1,746,3448,1743,827,739,89.4,9,8,Match Report
+2020-03-03,19:45 ,FA Cup,Fifth round,Tue,Home,W,2,0,Liverpool,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-03-08,14:00 ,Premier League,Matchweek 29,Sun,Home,W,4,0,Everton,773,74,276,371,176,26,731,24,33,72.7,25,0,607,2814,1434,646,583,90.2,13,10,Match Report
+2020-06-21,16:15 ,Premier League,Matchweek 30,Sun,Away,W,2,1,Aston Villa,831,55,182,393,304,37,780,10,13,76.9,10,1,564,3143,1827,726,631,86.9,4,7,Match Report
+2020-06-25,20:15 ,Premier League,Matchweek 31,Thu,Home,W,2,1,Manchester City,488,107,245,191,87,30,458,8,11,72.7,8,0,269,1666,1064,371,325,87.6,7,7,Match Report
+2020-06-28,16:00 ,FA Cup,Quarter-finals,Sun,Away,W,1,0,Leicester City,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-07-01,20:15 ,Premier League,Matchweek 32,Wed,Away,L,2,3,West Ham,801,56,202,388,278,46,759,11,18,61.1,12,0,558,4050,2337,661,604,91.4,10,11,Match Report
+2020-07-04,20:00 ,Premier League,Matchweek 33,Sat,Home,W,3,0,Watford,874,59,220,471,242,34,838,7,11,63.6,7,1,615,3763,2046,739,677,91.6,15,15,Match Report
+2020-07-07,18:00 ,Premier League,Matchweek 34,Tue,Away,W,3,2,Crystal Palace,709,75,241,374,145,23,664,14,24,58.3,15,0,442,2850,1543,544,474,87.1,10,13,Match Report
+2020-07-11,17:30 ,Premier League,Matchweek 35,Sat,Away,L,0,3,Sheffield Utd,942,67,290,487,241,24,889,8,13,61.5,9,2,735,4204,2261,786,736,93.6,12,4,Match Report
+2020-07-14,20:15 ,Premier League,Matchweek 36,Tue,Home,W,1,0,Norwich City,914,44,183,489,286,51,878,11,14,78.6,11,0,678,3719,1986,802,722,90.0,11,14,Match Report
+2020-07-19,18:00 ,FA Cup,Semi-finals,Sun,Neutral,W,3,1,Manchester Utd,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-07-22,20:15 ,Premier League,Matchweek 37,Wed,Away,L,3,5,Liverpool,713,87,294,310,139,17,679,9,14,64.3,9,3,449,2389,1274,567,489,86.2,12,13,Match Report
+2020-07-26,16:00 ,Premier League,Matchweek 38,Sun,Home,W,2,0,Wolves,804,72,255,429,162,22,753,5,12,41.7,5,0,548,2328,1228,632,544,86.1,14,19,Match Report
+2020-08-01,17:30 ,FA Cup,Final,Sat,Neutral,L,1,2,Arsenal,,,,,,,,,,,,,,,,,,,,,Match Report
+2020-08-08,21:00 ,Champions Lg,Round of 16,Sat,Away,L,1,4,de Bayern Munich,506,85,230,243,64,11,464,12,21,57.1,13,1,316,1762,962,389,340,87.4,7,18,Match Report

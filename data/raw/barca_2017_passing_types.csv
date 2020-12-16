@@ -1,0 +1,60 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Att,Live,Dead,FK,TB,Press,Sw,Crs,CK,In,Out,Str,Ground,Low,High,Left,Right,Head,TI,Other,Cmp,Off,Out,Int,Blocks,Match Report
+2017-08-13,22:00 ,Supercopa de España,Supercopa de España,Sun,Neutral,L,1,3,Real Madrid,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-08-16,23:00 ,Supercopa de España,Supercopa de España,Wed,Away,L,0,2,Real Madrid,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-08-20,20:15 ,La Liga,Matchweek 1,Sun,Home,W,2,0,Betis,685,643,42,13,2,216,8,6,8,1,4,1,582,23,80,241,412,10,15,1,600,2,5,15,19,Match Report
+2017-08-26,18:15 ,La Liga,Matchweek 2,Sat,Away,W,2,0,Alavés,744,712,32,3,0,41,16,13,13,0,0,0,602,36,106,241,464,17,14,3,660,0,4,10,16,Match Report
+2017-09-09,20:45 ,La Liga,Matchweek 3,Sat,Home,W,5,0,Espanyol,766,712,54,16,4,132,31,9,8,4,3,0,620,74,72,259,447,26,24,5,681,2,10,7,14,Match Report
+2017-09-12,20:45 ,Champions Lg,Group stage,Tue,Home,W,3,0,it Juventus,,,,,,,,7,,,,,,,,,,,,,,,,,,Match Report
+2017-09-16,16:15 ,La Liga,Matchweek 4,Sat,Away,W,2,1,Getafe,689,653,36,13,0,57,7,8,2,0,0,0,581,75,33,216,421,24,13,11,608,5,4,6,4,Match Report
+2017-09-19,22:00 ,La Liga,Matchweek 5,Tue,Home,W,6,1,Eibar,611,581,30,5,0,75,12,9,7,0,0,0,476,34,101,129,440,22,11,6,516,1,4,14,15,Match Report
+2017-09-23,20:45 ,La Liga,Matchweek 6,Sat,Away,W,3,0,Girona,561,526,35,14,5,93,10,5,3,0,0,0,433,44,84,159,359,21,14,4,463,13,5,6,15,Match Report
+2017-09-27,19:45 ,Champions Lg,Group stage,Wed,Away,W,1,0,pt Sporting CP,,,,,,,,7,,,,,,,,,,,,,,,,,,Match Report
+2017-10-01,16:15 ,La Liga,Matchweek 7,Sun,Home,W,3,0,Las Palmas,526,505,21,1,2,48,15,13,8,0,0,0,428,40,58,132,363,18,10,3,446,1,7,12,14,Match Report
+2017-10-14,20:45 ,La Liga,Matchweek 8,Sat,Away,D,1,1,Atlético Madrid,746,720,26,8,0,215,30,17,1,0,0,0,595,65,86,253,449,19,15,4,645,1,6,12,20,Match Report
+2017-10-18,20:45 ,Champions Lg,Group stage,Wed,Home,W,3,1,gr Olympiacos,,,,,,,,23,,,,,,,,,,,,,,,,,,Match Report
+2017-10-21,20:45 ,La Liga,Matchweek 9,Sat,Home,W,2,0,Málaga,719,696,23,8,2,92,27,7,4,0,0,0,590,45,84,256,426,19,10,6,635,2,8,8,12,Match Report
+2017-10-24,21:30 ,Copa del Rey,Round of 32,Tue,Away,W,3,0,Real Murcia,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-10-28,20:45 ,La Liga,Matchweek 10,Sat,Away,W,2,0,Athletic Club,569,533,36,8,1,64,10,9,4,0,0,0,407,58,104,211,300,21,18,7,454,4,7,20,19,Match Report
+2017-10-31,21:45 ,Champions Lg,Group stage,Tue,Away,D,0,0,gr Olympiacos,,,,,,,,17,,,,,,,,,,,,,,,,,,Match Report
+2017-11-04,20:45 ,La Liga,Matchweek 11,Sat,Home,W,2,1,Sevilla,590,566,24,12,0,38,10,8,2,0,0,0,456,59,75,213,346,13,8,7,490,2,7,14,12,Match Report
+2017-11-18,16:15 ,La Liga,Matchweek 12,Sat,Away,W,3,0,Leganés,625,594,31,13,0,63,13,8,3,0,0,0,488,19,118,197,383,19,12,5,523,4,6,17,12,Match Report
+2017-11-22,20:45 ,Champions Lg,Group stage,Wed,Away,D,0,0,it Juventus,,,,,,,,9,,,,,,,,,,,,,,,,,,Match Report
+2017-11-26,20:45 ,La Liga,Matchweek 13,Sun,Away,D,1,1,Valencia,781,747,34,6,0,111,9,10,8,0,0,0,658,35,88,326,414,11,17,4,664,6,4,11,30,Match Report
+2017-11-29,19:30 ,Copa del Rey,Round of 32,Wed,Home,W,5,0,Real Murcia,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2017-12-02,13:00 ,La Liga,Matchweek 14,Sat,Home,D,2,2,Celta Vigo,764,732,32,8,0,105,19,17,4,0,0,0,628,22,114,245,467,29,15,2,657,3,2,9,19,Match Report
+2017-12-05,20:45 ,Champions Lg,Group stage,Tue,Home,W,2,0,pt Sporting CP,,,,,,,,11,,,,,,,,,,,,,,,,,,Match Report
+2017-12-10,20:45 ,La Liga,Matchweek 15,Sun,Away,W,2,0,Villarreal,779,758,21,8,0,128,16,10,3,0,0,0,665,43,71,291,459,16,8,0,686,4,6,5,19,Match Report
+2017-12-17,20:45 ,La Liga,Matchweek 16,Sun,Home,W,4,0,La Coruña,655,634,21,7,3,58,16,10,6,0,0,0,537,61,57,206,415,19,5,9,573,2,9,10,11,Match Report
+2017-12-23,13:00 ,La Liga,Matchweek 17,Sat,Away,W,3,0,Real Madrid,597,562,35,17,0,123,8,9,7,1,2,2,460,80,57,186,384,13,5,4,525,1,8,10,8,Match Report
+2018-01-04,19:00 ,Copa del Rey,Round of 16,Thu,Away,D,1,1,Celta Vigo,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-01-07,16:15 ,La Liga,Matchweek 18,Sun,Home,W,3,0,Levante,694,670,24,7,2,116,13,12,3,0,0,0,598,52,44,251,412,13,13,5,622,4,5,11,19,Match Report
+2018-01-11,21:30 ,Copa del Rey,Round of 16,Thu,Home,W,5,0,Celta Vigo,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-01-14,20:45 ,La Liga,Matchweek 19,Sun,Away,W,4,2,Real Sociedad,500,452,48,15,1,130,12,9,3,1,0,0,395,34,71,198,256,15,22,4,424,5,4,12,8,Match Report
+2018-01-17,21:00 ,Copa del Rey,Quarter-finals,Wed,Away,L,0,1,Espanyol,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-01-21,20:45 ,La Liga,Matchweek 20,Sun,Away,W,5,0,Betis,571,527,44,12,1,138,16,7,2,0,0,0,458,42,71,186,330,21,25,6,478,7,5,22,15,Match Report
+2018-01-25,21:30 ,Copa del Rey,Quarter-finals,Thu,Home,W,2,0,Espanyol,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-01-28,20:45 ,La Liga,Matchweek 21,Sun,Home,W,2,1,Alavés,744,710,34,6,0,145,16,11,8,0,0,0,589,113,42,218,466,28,18,3,632,1,17,9,20,Match Report
+2018-02-01,21:30 ,Copa del Rey,Semi-finals,Thu,Home,W,1,0,Valencia,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-02-04,16:15 ,La Liga,Matchweek 22,Sun,Away,D,1,1,Espanyol,624,580,44,8,0,114,19,13,7,0,0,0,429,155,40,169,398,23,25,8,507,0,15,14,22,Match Report
+2018-02-08,21:30 ,Copa del Rey,Semi-finals,Thu,Away,W,2,0,Valencia,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-02-11,16:15 ,La Liga,Matchweek 23,Sun,Home,D,0,0,Getafe,799,766,33,9,0,159,15,14,9,0,0,0,621,136,42,293,441,35,13,5,682,6,6,18,18,Match Report
+2018-02-17,16:15 ,La Liga,Matchweek 24,Sat,Away,W,2,0,Eibar,557,527,30,8,0,217,15,5,0,0,0,0,394,50,113,179,317,30,13,4,455,5,4,12,5,Match Report
+2018-02-20,19:45 ,Champions Lg,Round of 16,Tue,Away,D,1,1,eng Chelsea,,,,,,,,13,,,,,,,,,,,,,,,,,,Match Report
+2018-02-24,20:45 ,La Liga,Matchweek 25,Sat,Home,W,6,1,Girona,601,573,28,5,1,205,9,11,5,0,0,0,483,58,60,202,349,20,14,10,522,3,7,2,18,Match Report
+2018-03-01,20:00 ,La Liga,Matchweek 26,Thu,Away,D,1,1,Las Palmas,576,532,44,11,1,112,10,5,5,0,0,0,447,44,85,211,314,18,22,6,488,1,10,5,18,Match Report
+2018-03-04,16:15 ,La Liga,Matchweek 27,Sun,Home,W,1,0,Atlético Madrid,610,584,26,6,0,78,22,7,8,0,0,0,470,69,71,217,340,31,9,7,508,2,6,10,18,Match Report
+2018-03-10,20:45 ,La Liga,Matchweek 28,Sat,Away,W,2,0,Málaga,869,834,35,8,5,177,20,31,5,0,0,0,731,75,63,271,537,21,20,10,772,4,10,17,11,Match Report
+2018-03-14,20:45 ,Champions Lg,Round of 16,Wed,Home,W,3,0,eng Chelsea,,,,,,,,6,,,,,,,,,,,,,,,,,,Match Report
+2018-03-18,16:15 ,La Liga,Matchweek 29,Sun,Home,W,2,0,Athletic Club,616,587,29,9,1,109,11,5,4,0,0,0,495,35,86,199,369,21,11,8,521,0,5,12,11,Match Report
+2018-03-31,20:45 ,La Liga,Matchweek 30,Sat,Away,D,2,2,Sevilla,620,590,30,6,0,62,16,11,9,0,0,0,515,43,62,193,392,16,12,4,526,2,15,16,16,Match Report
+2018-04-04,20:45 ,Champions Lg,Quarter-finals,Wed,Home,W,4,1,it Roma,,,,,,,,7,,,,,,,,,,,,,,,,,,Match Report
+2018-04-07,20:45 ,La Liga,Matchweek 31,Sat,Home,W,3,1,Leganés,695,666,29,7,7,82,22,7,5,0,0,0,577,49,69,226,426,13,14,3,593,4,6,26,14,Match Report
+2018-04-10,20:45 ,Champions Lg,Quarter-finals,Tue,Away,L,0,3,it Roma,,,,,,,,5,,,,,,,,,,,,,,,,,,Match Report
+2018-04-14,16:15 ,La Liga,Matchweek 32,Sat,Home,W,2,1,Valencia,681,653,28,5,1,116,14,14,6,0,0,0,527,88,66,220,426,14,14,7,597,1,9,10,13,Match Report
+2018-04-17,21:00 ,La Liga,Matchweek 33,Tue,Away,D,2,2,Celta Vigo,537,489,48,13,0,120,14,6,3,0,2,1,413,38,86,153,337,19,20,2,429,1,6,14,19,Match Report
+2018-04-21,21:30 ,Copa del Rey,Final,Sat,Neutral,W,5,0,Sevilla,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2018-04-29,20:45 ,La Liga,Matchweek 35,Sun,Away,W,4,2,La Coruña,709,683,26,6,1,121,13,11,6,0,0,0,617,56,36,269,407,16,10,5,623,1,8,9,18,Match Report
+2018-05-06,20:45 ,La Liga,Matchweek 36,Sun,Home,D,2,2,Real Madrid,560,527,33,14,1,137,19,5,5,0,0,0,458,49,53,173,360,12,6,5,489,4,9,7,6,Match Report
+2018-05-09,20:00 ,La Liga,Matchweek 34,Wed,Home,W,5,1,Villarreal,666,623,43,16,3,100,16,6,4,0,2,0,598,41,27,239,398,12,12,5,587,4,5,7,6,Match Report
+2018-05-13,20:45 ,La Liga,Matchweek 37,Sun,Away,L,4,5,Levante,553,515,38,13,0,112,5,15,8,0,0,0,430,41,82,125,378,21,14,10,473,1,8,16,8,Match Report
+2018-05-20,20:45 ,La Liga,Matchweek 38,Sun,Home,W,1,0,Real Sociedad,623,598,25,7,0,122,20,10,3,0,0,0,535,22,66,168,430,7,11,6,552,3,8,7,17,Match Report

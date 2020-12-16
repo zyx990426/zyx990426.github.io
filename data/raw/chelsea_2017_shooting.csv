@@ -1,0 +1,60 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Gls,Sh,SoT,SoT%,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Match Report
+2017-08-06,14:00 ,Community Shield,FA Community Shield,Sun,Neutral,L,1 (1),1 (4),Arsenal,1,7,4,57.1,0.14,0.25,,,0,0,,,,,,Match Report
+2017-08-12,15:00 ,Premier League,Matchweek 1,Sat,Home,L,2,3,Burnley,2,18,6,33.3,0.11,0.33,21.8,1,0,0,1.0,1.0,0.06,+1.0,+1.0,Match Report
+2017-08-20,16:00 ,Premier League,Matchweek 2,Sun,Away,W,2,1,Tottenham,2,10,2,20.0,0.20,1.00,15.1,1,0,0,0.8,0.8,0.08,+1.2,+1.2,Match Report
+2017-08-27,13:30 ,Premier League,Matchweek 3,Sun,Home,W,2,0,Everton,2,18,7,38.9,0.11,0.29,19.5,0,0,0,1.1,1.1,0.06,+0.9,+0.9,Match Report
+2017-09-09,15:00 ,Premier League,Matchweek 4,Sat,Away,W,2,1,Leicester City,2,16,6,37.5,0.13,0.33,20.4,1,0,0,1.2,1.2,0.08,+0.8,+0.8,Match Report
+2017-09-12,19:45 ,Champions Lg,Group stage,Tue,Home,W,6,0,az Qarabağ FK,5,16,8,50.0,0.31,0.63,,,0,0,,,,,,Match Report
+2017-09-17,13:30 ,Premier League,Matchweek 5,Sun,Home,D,0,0,Arsenal,0,13,4,30.8,0.00,0.00,21.1,0,0,0,0.7,0.7,0.05,-0.7,-0.7,Match Report
+2017-09-20,19:45 ,EFL Cup,Third round,Wed,Home,W,5,1,Nott'ham Forest,5,16,9,56.3,0.31,0.56,,,0,0,,,,,,Match Report
+2017-09-23,15:00 ,Premier League,Matchweek 6,Sat,Away,W,4,0,Stoke City,4,8,4,50.0,0.50,1.00,10.1,0,0,0,1.8,1.8,0.23,+2.2,+2.2,Match Report
+2017-09-27,20:45 ,Champions Lg,Group stage,Wed,Away,W,2,1,es Atlético Madrid,2,18,4,22.2,0.11,0.50,,,0,0,,,,,,Match Report
+2017-09-30,17:30 ,Premier League,Matchweek 7,Sat,Home,L,0,1,Manchester City,0,4,2,50.0,0.00,0.00,11.6,0,0,0,0.3,0.3,0.07,-0.3,-0.3,Match Report
+2017-10-14,15:00 ,Premier League,Matchweek 8,Sat,Away,L,1,2,Crystal Palace,1,15,5,33.3,0.07,0.20,19.2,1,0,0,0.8,0.8,0.05,+0.2,+0.2,Match Report
+2017-10-18,19:45 ,Champions Lg,Group stage,Wed,Home,D,3,3,it Roma,3,17,5,29.4,0.18,0.60,,,0,0,,,,,,Match Report
+2017-10-21,12:30 ,Premier League,Matchweek 9,Sat,Home,W,4,2,Watford,4,13,7,53.8,0.31,0.57,20.4,0,0,0,1.6,1.6,0.12,+2.4,+2.4,Match Report
+2017-10-25,19:45 ,EFL Cup,Fourth round,Wed,Home,W,2,1,Everton,2,11,3,27.3,0.18,0.67,,,0,0,,,,,,Match Report
+2017-10-28,17:30 ,Premier League,Matchweek 10,Sat,Away,W,1,0,Bournemouth,1,17,6,35.3,0.06,0.17,14.4,0,0,0,2.0,2.0,0.12,-1.0,-1.0,Match Report
+2017-10-31,20:45 ,Champions Lg,Group stage,Tue,Away,L,0,3,it Roma,0,14,6,42.9,0.00,0.00,,,0,0,,,,,,Match Report
+2017-11-05,16:30 ,Premier League,Matchweek 11,Sun,Home,W,1,0,Manchester Utd,1,17,8,47.1,0.06,0.13,17.4,0,0,0,1.1,1.1,0.07,-0.1,-0.1,Match Report
+2017-11-18,15:00 ,Premier League,Matchweek 12,Sat,Away,W,4,0,West Brom,4,11,7,63.6,0.36,0.57,15.0,0,0,0,1.9,1.9,0.17,+2.1,+2.1,Match Report
+2017-11-22,21:00 ,Champions Lg,Group stage,Wed,Away,W,4,0,az Qarabağ FK,4,18,10,55.6,0.11,0.20,,,2,2,,,,,,Match Report
+2017-11-25,17:30 ,Premier League,Matchweek 13,Sat,Away,D,1,1,Liverpool,1,14,3,21.4,0.07,0.33,15.6,1,0,0,1.2,1.2,0.08,-0.2,-0.2,Match Report
+2017-11-29,19:45 ,Premier League,Matchweek 14,Wed,Home,W,1,0,Swansea City,1,22,10,45.5,0.05,0.10,15.9,0,0,0,1.7,1.7,0.08,-0.7,-0.7,Match Report
+2017-12-02,12:30 ,Premier League,Matchweek 15,Sat,Home,W,3,1,Newcastle Utd,3,20,7,35.0,0.10,0.29,15.9,0,1,1,3.0,2.2,0.12,0.0,-0.2,Match Report
+2017-12-05,19:45 ,Champions Lg,Group stage,Tue,Home,D,1,1,es Atlético Madrid,0,17,7,41.2,0.00,0.00,,,0,0,,,,,,Match Report
+2017-12-09,12:30 ,Premier League,Matchweek 16,Sat,Away,L,0,1,West Ham,0,19,3,15.8,0.00,0.00,17.4,0,0,0,1.2,1.2,0.06,-1.2,-1.2,Match Report
+2017-12-12,20:00 ,Premier League,Matchweek 17,Tue,Away,W,3,1,Huddersfield,3,13,5,38.5,0.23,0.60,15.4,0,0,0,1.5,1.5,0.11,+1.5,+1.5,Match Report
+2017-12-16,15:00 ,Premier League,Matchweek 18,Sat,Home,W,1,0,Southampton,1,23,9,39.1,0.04,0.11,19.6,1,0,0,1.2,1.2,0.05,-0.2,-0.2,Match Report
+2017-12-20,19:45 ,EFL Cup,Quarter-finals,Wed,Home,W,2,1,Bournemouth,2,7,2,28.6,0.29,1.00,,,0,0,,,,,,Match Report
+2017-12-23,12:30 ,Premier League,Matchweek 19,Sat,Away,D,0,0,Everton,0,25,5,20.0,0.00,0.00,19.0,1,0,0,1.8,1.8,0.08,-1.8,-1.8,Match Report
+2017-12-26,15:00 ,Premier League,Matchweek 20,Tue,Home,W,2,0,Brighton,2,25,7,28.0,0.08,0.29,17.8,2,0,0,2.2,2.2,0.09,-0.2,-0.2,Match Report
+2017-12-30,15:00 ,Premier League,Matchweek 21,Sat,Home,W,5,0,Stoke City,5,20,11,55.0,0.20,0.36,19.7,0,1,1,2.3,1.5,0.08,+2.7,+2.5,Match Report
+2018-01-03,19:45 ,Premier League,Matchweek 22,Wed,Away,D,2,2,Arsenal,2,19,5,26.3,0.05,0.20,15.6,1,1,1,3.7,2.9,0.16,-1.7,-1.9,Match Report
+2018-01-06,17:30 ,FA Cup,Third round,Sat,Away,D,0,0,Norwich City,0,16,7,43.8,0.00,0.00,,,0,0,,,,,,Match Report
+2018-01-10,20:00 ,EFL Cup,Semi-finals,Wed,Home,D,0,0,Arsenal,0,21,6,28.6,0.00,0.00,,,0,0,,,,,,Match Report
+2018-01-13,15:00 ,Premier League,Matchweek 23,Sat,Home,D,0,0,Leicester City,0,17,7,41.2,0.00,0.00,21.9,1,0,0,0.6,0.6,0.03,-0.6,-0.6,Match Report
+2018-01-17,19:45 ,FA Cup,Third round,Wed,Home,D,1 (5),1 (3),Norwich City,1,26,8,30.8,0.04,0.13,,,0,0,,,,,,Match Report
+2018-01-20,12:30 ,Premier League,Matchweek 24,Sat,Away,W,4,0,Brighton,4,14,10,71.4,0.29,0.40,20.1,3,0,0,1.5,1.5,0.11,+2.5,+2.5,Match Report
+2018-01-24,20:00 ,EFL Cup,Semi-finals,Wed,Away,L,1,2,Arsenal,1,12,2,16.7,0.08,0.50,,,0,0,,,,,,Match Report
+2018-01-28,13:30 ,FA Cup,Fourth round,Sun,Home,W,3,0,Newcastle Utd,3,18,8,44.4,0.17,0.38,,,0,0,,,,,,Match Report
+2018-01-31,19:45 ,Premier League,Matchweek 25,Wed,Home,L,0,3,Bournemouth,0,21,6,28.6,0.00,0.00,17.4,2,0,0,1.3,1.3,0.06,-1.3,-1.3,Match Report
+2018-02-05,20:00 ,Premier League,Matchweek 26,Mon,Away,L,1,4,Watford,1,6,3,50.0,0.17,0.33,18.6,0,0,0,0.7,0.7,0.12,+0.3,+0.3,Match Report
+2018-02-12,20:00 ,Premier League,Matchweek 27,Mon,Home,W,3,0,West Brom,3,20,8,40.0,0.15,0.38,15.7,1,0,0,2.1,2.1,0.11,+0.9,+0.9,Match Report
+2018-02-16,20:00 ,FA Cup,Fifth round,Fri,Home,W,4,0,Hull City,4,14,8,57.1,0.29,0.50,,,0,0,,,,,,Match Report
+2018-02-20,19:45 ,Champions Lg,Round of 16,Tue,Home,D,1,1,es Barcelona,1,11,2,18.2,0.09,0.50,,,0,0,,,,,,Match Report
+2018-02-25,14:05 ,Premier League,Matchweek 28,Sun,Away,L,1,2,Manchester Utd,1,13,6,46.2,0.08,0.17,17.0,0,0,0,1.3,1.3,0.10,-0.3,-0.3,Match Report
+2018-03-04,16:00 ,Premier League,Matchweek 29,Sun,Away,L,0,1,Manchester City,0,3,0,0.0,0.00,,16.8,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Match Report
+2018-03-10,17:30 ,Premier League,Matchweek 30,Sat,Home,W,2,1,Crystal Palace,1,28,9,32.1,0.04,0.11,17.5,1,0,0,2.8,2.8,0.11,-1.8,-1.8,Match Report
+2018-03-14,20:45 ,Champions Lg,Round of 16,Wed,Away,L,0,3,es Barcelona,0,14,3,21.4,0.00,0.00,,,0,0,,,,,,Match Report
+2018-03-18,16:30 ,FA Cup,Quarter-finals,Sun,Away,W,2,1,Leicester City,2,14,6,42.9,0.14,0.33,,,0,0,,,,,,Match Report
+2018-04-01,16:00 ,Premier League,Matchweek 32,Sun,Home,L,1,3,Tottenham,1,14,4,28.6,0.07,0.25,16.2,0,0,0,1.0,1.0,0.07,0.0,0.0,Match Report
+2018-04-08,16:30 ,Premier League,Matchweek 33,Sun,Home,D,1,1,West Ham,1,24,6,25.0,0.04,0.17,16.2,0,0,0,2.2,2.2,0.09,-1.2,-1.2,Match Report
+2018-04-14,12:30 ,Premier League,Matchweek 34,Sat,Away,W,3,2,Southampton,3,17,5,29.4,0.18,0.60,20.4,0,0,0,1.1,1.1,0.07,+1.9,+1.9,Match Report
+2018-04-19,19:45 ,Premier League,Matchweek 31,Thu,Away,W,2,1,Burnley,1,16,5,31.3,0.06,0.20,16.6,1,0,0,1.3,1.3,0.08,-0.3,-0.3,Match Report
+2018-04-22,15:00 ,FA Cup,Semi-finals,Sun,Home,W,2,0,Southampton,2,17,5,29.4,0.12,0.40,,,0,0,,,,,,Match Report
+2018-04-28,17:30 ,Premier League,Matchweek 36,Sat,Away,W,1,0,Swansea City,1,11,3,27.3,0.09,0.33,12.9,0,0,0,1.7,1.7,0.15,-0.7,-0.7,Match Report
+2018-05-06,16:30 ,Premier League,Matchweek 37,Sun,Home,W,1,0,Liverpool,1,12,4,33.3,0.08,0.25,16.0,0,0,0,0.7,0.7,0.06,+0.3,+0.3,Match Report
+2018-05-09,19:45 ,Premier League,Matchweek 35,Wed,Home,D,1,1,Huddersfield,1,25,6,24.0,0.04,0.17,12.6,0,0,0,2.4,2.4,0.10,-1.4,-1.4,Match Report
+2018-05-13,15:00 ,Premier League,Matchweek 38,Sun,Away,L,0,3,Newcastle Utd,0,6,2,33.3,0.00,0.00,13.5,0,0,0,0.9,0.9,0.15,-0.9,-0.9,Match Report
+2018-05-19,17:15 ,FA Cup,Final,Sat,Home,W,1,0,Manchester Utd,1,6,3,50.0,0.00,0.00,,,1,1,,,,,,Match Report

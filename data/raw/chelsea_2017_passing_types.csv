@@ -1,0 +1,60 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Att,Live,Dead,FK,TB,Press,Sw,Crs,CK,In,Out,Str,Ground,Low,High,Left,Right,Head,TI,Other,Cmp,Off,Out,Int,Blocks,Match Report
+2017-08-06,14:00 ,Community Shield,FA Community Shield,Sun,Neutral,L,1 (1),1 (4),Arsenal,,,,,,,,12,,,,,,,,,,,,,,,,,,Match Report
+2017-08-12,15:00 ,Premier League,Matchweek 1,Sat,Home,L,2,3,Burnley,561,529,32,9,0,88,19,18,6,0,0,0,424,23,114,103,404,30,12,5,455,2,8,10,15,Match Report
+2017-08-20,16:00 ,Premier League,Matchweek 2,Sun,Away,W,2,1,Tottenham,309,274,35,13,2,55,13,10,3,1,2,0,147,50,112,77,180,14,8,7,210,0,7,0,9,Match Report
+2017-08-27,13:30 ,Premier League,Matchweek 3,Sun,Home,W,2,0,Everton,630,583,47,8,0,106,12,13,6,2,1,0,393,134,103,129,445,15,26,7,528,0,6,8,8,Match Report
+2017-09-09,15:00 ,Premier League,Matchweek 4,Sat,Away,W,2,1,Leicester City,520,494,26,6,0,34,24,15,8,0,0,0,386,29,105,126,361,18,7,6,420,2,6,9,22,Match Report
+2017-09-12,19:45 ,Champions Lg,Group stage,Tue,Home,W,6,0,az Qarabağ FK,,,,,,,,12,,,,,,,,,,,,,,,,,,Match Report
+2017-09-17,13:30 ,Premier League,Matchweek 5,Sun,Home,D,0,0,Arsenal,540,510,30,7,0,61,16,14,4,0,0,0,322,82,136,115,359,38,14,5,410,4,10,18,15,Match Report
+2017-09-20,19:45 ,EFL Cup,Third round,Wed,Home,W,5,1,Nott'ham Forest,,,,,,,,13,,,,,,,,,,,,,,,,,,Match Report
+2017-09-23,15:00 ,Premier League,Matchweek 6,Sat,Away,W,4,0,Stoke City,544,526,18,1,0,35,4,4,0,0,0,0,424,23,97,102,386,22,13,12,449,0,14,12,8,Match Report
+2017-09-27,20:45 ,Champions Lg,Group stage,Wed,Away,W,2,1,es Atlético Madrid,,,,,,,,13,,,,,,,,,,,,,,,,,,Match Report
+2017-09-30,17:30 ,Premier League,Matchweek 7,Sat,Home,L,0,1,Manchester City,425,390,35,8,0,49,13,10,1,0,0,0,285,21,119,87,290,17,17,7,323,8,9,9,14,Match Report
+2017-10-14,15:00 ,Premier League,Matchweek 8,Sat,Away,L,1,2,Crystal Palace,604,570,34,6,0,29,30,12,8,0,0,0,427,65,112,122,399,58,13,6,474,6,7,14,22,Match Report
+2017-10-18,19:45 ,Champions Lg,Group stage,Wed,Home,D,3,3,it Roma,,,,,,,,15,,,,,,,,,,,,,,,,,,Match Report
+2017-10-21,12:30 ,Premier League,Matchweek 9,Sat,Home,W,4,2,Watford,475,446,29,14,0,29,12,17,2,0,0,0,327,64,84,113,326,20,8,5,379,6,12,8,10,Match Report
+2017-10-25,19:45 ,EFL Cup,Fourth round,Wed,Home,W,2,1,Everton,,,,,,,,14,,,,,,,,,,,,,,,,,,Match Report
+2017-10-28,17:30 ,Premier League,Matchweek 10,Sat,Away,W,1,0,Bournemouth,680,656,24,1,0,196,22,15,5,0,0,0,554,7,119,146,484,23,15,3,576,1,14,6,18,Match Report
+2017-10-31,20:45 ,Champions Lg,Group stage,Tue,Away,L,0,3,it Roma,,,,,,,,19,,,,,,,,,,,,,,,,,,Match Report
+2017-11-05,16:30 ,Premier League,Matchweek 11,Sun,Home,W,1,0,Manchester Utd,488,441,47,13,0,84,17,13,4,0,0,0,328,31,129,104,318,35,23,4,380,0,14,14,10,Match Report
+2017-11-18,15:00 ,Premier League,Matchweek 12,Sat,Away,W,4,0,West Brom,626,604,22,9,0,171,20,16,4,0,0,0,450,58,118,118,463,26,8,7,531,1,13,7,15,Match Report
+2017-11-22,21:00 ,Champions Lg,Group stage,Wed,Away,W,4,0,az Qarabağ FK,,,,,,,,11,,,,,,,,,,,,,,,,,,Match Report
+2017-11-25,17:30 ,Premier League,Matchweek 13,Sat,Away,D,1,1,Liverpool,519,488,31,2,0,130,13,17,8,0,0,0,366,43,110,118,363,14,14,8,412,5,9,19,17,Match Report
+2017-11-29,19:45 ,Premier League,Matchweek 14,Wed,Home,W,1,0,Swansea City,636,607,29,4,0,127,35,28,11,0,0,0,474,28,134,135,456,21,13,1,516,0,12,15,22,Match Report
+2017-12-02,12:30 ,Premier League,Matchweek 15,Sat,Home,W,3,1,Newcastle Utd,771,739,32,6,1,83,13,20,7,0,0,0,607,57,107,141,566,36,15,5,647,2,10,8,19,Match Report
+2017-12-05,19:45 ,Champions Lg,Group stage,Tue,Home,D,1,1,es Atlético Madrid,,,,,,,,18,,,,,,,,,,,,,,,,,,Match Report
+2017-12-09,12:30 ,Premier League,Matchweek 16,Sat,Away,L,0,1,West Ham,706,676,30,6,0,48,23,17,3,0,0,0,547,29,130,117,518,38,16,7,595,2,10,21,13,Match Report
+2017-12-12,20:00 ,Premier League,Matchweek 17,Tue,Away,W,3,1,Huddersfield,793,771,22,4,0,76,26,20,3,0,0,0,685,47,61,160,592,19,13,4,705,10,12,11,8,Match Report
+2017-12-16,15:00 ,Premier League,Matchweek 18,Sat,Home,W,1,0,Southampton,584,541,43,10,0,136,18,9,7,0,0,0,466,10,108,126,403,22,22,7,485,3,9,10,17,Match Report
+2017-12-20,19:45 ,EFL Cup,Quarter-finals,Wed,Home,W,2,1,Bournemouth,,,,,,,,5,,,,,,,,,,,,,,,,,,Match Report
+2017-12-23,12:30 ,Premier League,Matchweek 19,Sat,Away,D,0,0,Everton,749,698,51,9,0,77,27,25,7,3,3,0,489,153,107,172,502,24,26,9,608,4,10,14,17,Match Report
+2017-12-26,15:00 ,Premier League,Matchweek 20,Tue,Home,W,2,0,Brighton,731,693,38,8,5,86,19,13,13,1,5,0,535,93,103,132,543,22,12,11,634,2,5,10,8,Match Report
+2017-12-30,15:00 ,Premier League,Matchweek 21,Sat,Home,W,5,0,Stoke City,690,657,33,7,1,42,13,13,7,0,0,0,565,68,57,140,497,19,16,14,611,2,7,11,10,Match Report
+2018-01-03,19:45 ,Premier League,Matchweek 22,Wed,Away,D,2,2,Arsenal,433,408,25,10,3,97,12,14,6,0,0,0,320,29,84,89,310,20,6,6,342,2,5,9,12,Match Report
+2018-01-06,17:30 ,FA Cup,Third round,Sat,Away,D,0,0,Norwich City,,,,,,,,14,,,,,,,,,,,,,,,,,,Match Report
+2018-01-10,20:00 ,EFL Cup,Semi-finals,Wed,Home,D,0,0,Arsenal,,,,,,,,27,,,,,,,,,,,,,,,,,,Match Report
+2018-01-13,15:00 ,Premier League,Matchweek 23,Sat,Home,D,0,0,Leicester City,552,497,55,15,2,52,18,16,6,3,1,1,304,129,119,126,366,21,21,10,439,4,8,7,11,Match Report
+2018-01-17,19:45 ,FA Cup,Third round,Wed,Home,D,1 (5),1 (3),Norwich City,,,,,,,,22,,,,,,,,,,,,,,,,,,Match Report
+2018-01-20,12:30 ,Premier League,Matchweek 24,Sat,Away,W,4,0,Brighton,571,528,43,13,3,54,11,8,3,1,1,0,413,94,64,100,425,9,20,10,489,0,9,5,17,Match Report
+2018-01-24,20:00 ,EFL Cup,Semi-finals,Wed,Away,L,1,2,Arsenal,,,,,,,,24,,,,,,,,,,,,,,,,,,Match Report
+2018-01-28,13:30 ,FA Cup,Fourth round,Sun,Home,W,3,0,Newcastle Utd,,,,,,,,18,,,,,,,,,,,,,,,,,,Match Report
+2018-01-31,19:45 ,Premier League,Matchweek 25,Wed,Home,L,0,3,Bournemouth,674,617,57,12,1,73,20,15,8,1,5,0,468,89,117,148,451,23,28,10,561,4,11,10,11,Match Report
+2018-02-05,20:00 ,Premier League,Matchweek 26,Mon,Away,L,1,4,Watford,536,495,41,12,1,123,19,9,2,1,1,0,378,77,81,77,413,14,12,11,444,0,9,5,6,Match Report
+2018-02-12,20:00 ,Premier League,Matchweek 27,Mon,Home,W,3,0,West Brom,578,547,31,5,0,128,15,12,7,0,0,0,445,17,116,106,427,20,9,6,481,1,3,16,14,Match Report
+2018-02-16,20:00 ,FA Cup,Fifth round,Fri,Home,W,4,0,Hull City,,,,,,,,12,,,,,,,,,,,,,,,,,,Match Report
+2018-02-20,19:45 ,Champions Lg,Round of 16,Tue,Home,D,1,1,es Barcelona,,,,,,,,3,,,,,,,,,,,,,,,,,,Match Report
+2018-02-25,14:05 ,Premier League,Matchweek 28,Sun,Away,L,1,2,Manchester Utd,587,548,39,13,2,121,14,10,4,1,1,0,408,92,87,121,415,15,14,9,488,6,8,12,10,Match Report
+2018-03-04,16:00 ,Premier League,Matchweek 29,Sun,Away,L,0,1,Manchester City,420,376,44,10,0,81,8,5,2,1,0,0,269,68,83,113,256,17,19,6,327,1,8,7,8,Match Report
+2018-03-10,17:30 ,Premier League,Matchweek 30,Sat,Home,W,2,1,Crystal Palace,629,594,35,5,0,119,33,22,9,0,0,0,489,13,127,119,460,26,13,6,525,1,6,3,21,Match Report
+2018-03-14,20:45 ,Champions Lg,Round of 16,Wed,Away,L,0,3,es Barcelona,,,,,,,,16,,,,,,,,,,,,,,,,,,Match Report
+2018-03-18,16:30 ,FA Cup,Quarter-finals,Sun,Away,W,2,1,Leicester City,,,,,,,,15,,,,,,,,,,,,,,,,,,Match Report
+2018-04-01,16:00 ,Premier League,Matchweek 32,Sun,Home,L,1,3,Tottenham,494,459,35,7,0,69,17,19,5,0,0,0,345,14,135,102,337,32,16,3,377,4,7,20,19,Match Report
+2018-04-08,16:30 ,Premier League,Matchweek 33,Sun,Home,D,1,1,West Ham,626,593,33,8,1,84,10,18,8,0,0,0,483,47,96,104,456,35,13,9,524,2,10,15,10,Match Report
+2018-04-14,12:30 ,Premier League,Matchweek 34,Sat,Away,W,3,2,Southampton,567,529,38,9,0,140,10,16,6,0,0,0,378,69,120,103,392,35,19,11,443,1,9,16,19,Match Report
+2018-04-19,19:45 ,Premier League,Matchweek 31,Thu,Away,W,2,1,Burnley,631,598,33,9,0,100,8,14,2,0,0,0,467,43,121,174,395,35,17,7,534,1,7,6,12,Match Report
+2018-04-22,15:00 ,FA Cup,Semi-finals,Sun,Home,W,2,0,Southampton,,,,,,,,15,,,,,,,,,,,,,,,,,,Match Report
+2018-04-28,17:30 ,Premier League,Matchweek 36,Sat,Away,W,1,0,Swansea City,591,568,23,4,2,131,8,11,2,0,0,0,433,61,97,157,388,22,14,6,502,3,7,8,11,Match Report
+2018-05-06,16:30 ,Premier League,Matchweek 37,Sun,Home,W,1,0,Liverpool,373,340,33,4,0,134,11,12,3,0,0,0,233,38,102,101,218,28,17,2,266,1,15,10,11,Match Report
+2018-05-09,19:45 ,Premier League,Matchweek 35,Wed,Home,D,1,1,Huddersfield,855,815,40,7,0,78,24,23,9,0,0,0,640,61,154,104,672,45,22,5,718,2,7,16,22,Match Report
+2018-05-13,15:00 ,Premier League,Matchweek 38,Sun,Away,L,0,3,Newcastle Utd,583,551,32,8,1,23,16,10,1,0,0,0,448,62,73,134,393,32,15,3,490,1,8,14,20,Match Report
+2018-05-19,17:15 ,FA Cup,Final,Sat,Home,W,1,0,Manchester Utd,,,,,,,,5,,,,,,,,,,,,,,,,,,Match Report

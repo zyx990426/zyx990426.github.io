@@ -1,0 +1,61 @@
+Date,Comp,Round,Result,GF,GA,Opponent,Tkl,TklW,Press,%
+2018-08-12,Supercopa de España,Supercopa de España,W,2,1,Sevilla,,11,,
+2018-08-18,La Liga,Matchweek 1,W,3,0,Alavés,6,3,108,52.8
+2018-08-25,La Liga,Matchweek 2,W,1,0,Valladolid,7,4,179,26.8
+2018-09-02,La Liga,Matchweek 3,W,8,2,Huesca,16,11,126,32.5
+2018-09-15,La Liga,Matchweek 4,W,2,1,Real Sociedad,19,14,195,31.8
+2018-09-18,Champions Lg,Group stage,W,4,0,nl PSV Eindhoven,14,10,90,25.6
+2018-09-23,La Liga,Matchweek 5,D,2,2,Girona,12,7,132,34.1
+2018-09-26,La Liga,Matchweek 6,L,1,2,Leganés,19,11,105,26.7
+2018-09-29,La Liga,Matchweek 7,D,1,1,Athletic Club,18,11,127,40.2
+2018-10-03,Champions Lg,Group stage,W,4,2,eng Tottenham,21,12,146,30.8
+2018-10-07,La Liga,Matchweek 8,D,1,1,Valencia,12,10,152,30.3
+2018-10-20,La Liga,Matchweek 9,W,4,2,Sevilla,12,10,151,26.5
+2018-10-24,Champions Lg,Group stage,W,2,0,it Inter,22,17,188,33.0
+2018-10-28,La Liga,Matchweek 10,W,5,1,Real Madrid,13,11,234,26.1
+2018-10-31,Copa del Rey,Round of 32,W,1,0,Leonesa,,12,,
+2018-11-03,La Liga,Matchweek 11,W,3,2,Rayo Vallecano,25,21,141,35.5
+2018-11-06,Champions Lg,Group stage,D,1,1,it Inter,12,7,162,32.7
+2018-11-11,La Liga,Matchweek 12,L,3,4,Betis,18,8,253,22.5
+2018-11-24,La Liga,Matchweek 13,D,1,1,Atlético Madrid,13,11,184,34.2
+2018-11-28,Champions Lg,Group stage,W,2,1,nl PSV Eindhoven,25,19,226,31.4
+2018-12-02,La Liga,Matchweek 14,W,2,0,Villarreal,16,11,169,26.0
+2018-12-05,Copa del Rey,Round of 32,W,4,1,Leonesa,,12,,
+2018-12-08,La Liga,Matchweek 15,W,4,0,Espanyol,22,15,143,24.5
+2018-12-11,Champions Lg,Group stage,D,1,1,eng Tottenham,14,6,181,20.4
+2018-12-16,La Liga,Matchweek 16,W,5,0,Levante,15,11,232,22.4
+2018-12-22,La Liga,Matchweek 17,W,2,0,Celta Vigo,10,7,158,21.5
+2019-01-06,La Liga,Matchweek 18,W,2,1,Getafe,15,9,105,31.4
+2019-01-10,Copa del Rey,Round of 16,L,1,2,Levante,,18,,
+2019-01-13,La Liga,Matchweek 19,W,3,0,Eibar,21,13,155,21.3
+2019-01-17,Copa del Rey,Round of 16,W,3,0,Levante,,14,,
+2019-01-20,La Liga,Matchweek 20,W,3,1,Leganés,14,11,103,38.8
+2019-01-23,Copa del Rey,Quarter-finals,L,0,2,Sevilla,,8,,
+2019-01-27,La Liga,Matchweek 21,W,2,0,Girona,15,11,132,25.0
+2019-01-30,Copa del Rey,Quarter-finals,W,6,1,Sevilla,,10,,
+2019-02-02,La Liga,Matchweek 22,D,2,2,Valencia,12,7,196,28.1
+2019-02-06,Copa del Rey,Semi-finals,D,1,1,Real Madrid,,14,,
+2019-02-10,La Liga,Matchweek 23,D,0,0,Athletic Club,15,11,160,27.5
+2019-02-16,La Liga,Matchweek 24,W,1,0,Valladolid,20,13,207,32.9
+2019-02-19,Champions Lg,Round of 16,D,0,0,fr Lyon,21,15,223,27.4
+2019-02-23,La Liga,Matchweek 25,W,4,2,Sevilla,10,8,154,26.0
+2019-02-27,Copa del Rey,Semi-finals,W,3,0,Real Madrid,,7,,
+2019-03-02,La Liga,Matchweek 26,W,1,0,Real Madrid,19,15,164,28.7
+2019-03-09,La Liga,Matchweek 27,W,3,1,Rayo Vallecano,22,16,229,36.7
+2019-03-13,Champions Lg,Round of 16,W,5,1,fr Lyon,15,11,193,23.3
+2019-03-17,La Liga,Matchweek 28,W,4,1,Betis,12,9,287,22.3
+2019-03-30,La Liga,Matchweek 29,W,2,0,Espanyol,20,12,125,38.4
+2019-04-02,La Liga,Matchweek 30,D,4,4,Villarreal,12,10,145,27.6
+2019-04-06,La Liga,Matchweek 31,W,2,0,Atlético Madrid,11,9,240,28.3
+2019-04-10,Champions Lg,Quarter-finals,W,1,0,eng Manchester Utd,12,5,174,21.3
+2019-04-13,La Liga,Matchweek 32,D,0,0,Huesca,20,14,144,31.9
+2019-04-16,Champions Lg,Quarter-finals,W,3,0,eng Manchester Utd,12,6,200,23.0
+2019-04-20,La Liga,Matchweek 33,W,2,1,Real Sociedad,17,11,211,28.4
+2019-04-23,La Liga,Matchweek 34,W,2,0,Alavés,14,6,91,31.9
+2019-04-27,La Liga,Matchweek 35,W,1,0,Levante,21,16,152,25.0
+2019-05-01,Champions Lg,Semi-finals,W,3,0,eng Liverpool,12,5,168,25.6
+2019-05-04,La Liga,Matchweek 36,L,0,2,Celta Vigo,7,3,206,18.4
+2019-05-07,Champions Lg,Semi-finals,L,0,4,eng Liverpool,13,10,132,23.5
+2019-05-12,La Liga,Matchweek 37,W,2,0,Getafe,11,6,97,39.2
+2019-05-19,La Liga,Matchweek 38,D,2,2,Eibar,11,5,133,27.1
+2019-05-25,Copa del Rey,Final,L,1,2,Valencia,,11,,

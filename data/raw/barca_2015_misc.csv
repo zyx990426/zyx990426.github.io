@@ -1,0 +1,61 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
+2015-08-11,22:45 ,Super Cup,UEFA Super Cup,Tue,Home,W,5 (1),4 (0),es Sevilla,4,0,0,22,19,3,,,,,,0,,,,,Match Report
+2015-08-14,22:00 ,Supercopa de España,Supercopa de España,Fri,Away,L,0,4,Athletic Club,4,0,0,,,,,,,,,0,,,,,Match Report
+2015-08-17,22:00 ,Supercopa de España,Supercopa de España,Mon,Home,D,1,1,Athletic Club,2,1,0,,,,,,,,,0,,,,,Match Report
+2015-08-23,18:30 ,La Liga,Matchweek 1,Sun,Away,W,1,0,Athletic Club,3,0,0,11,16,4,12,17,14,1,0,0,115,21,24,46.7,Match Report
+2015-08-29,20:30 ,La Liga,Matchweek 2,Sat,Home,W,1,0,Málaga,0,0,0,4,20,4,25,10,13,0,0,0,99,16,8,66.7,Match Report
+2015-09-12,20:30 ,La Liga,Matchweek 3,Sat,Away,W,2,1,Atlético Madrid,1,0,0,5,16,0,19,5,18,0,0,0,90,7,8,46.7,Match Report
+2015-09-16,20:45 ,Champions Lg,Group stage,Wed,Away,D,1,1,it Roma,1,0,0,5,11,3,14,13,16,0,0,0,,,,,Match Report
+2015-09-20,20:30 ,La Liga,Matchweek 4,Sun,Home,W,4,1,Levante,0,0,0,8,15,3,17,19,12,2,0,0,85,7,11,38.9,Match Report
+2015-09-23,20:00 ,La Liga,Matchweek 5,Wed,Away,L,1,4,Celta Vigo,2,0,0,4,19,0,12,19,11,0,0,0,103,19,12,61.3,Match Report
+2015-09-26,16:00 ,La Liga,Matchweek 6,Sat,Home,W,2,1,Las Palmas,2,0,0,12,22,6,12,14,18,0,0,0,96,16,12,57.1,Match Report
+2015-09-29,20:45 ,Champions Lg,Group stage,Tue,Home,W,2,1,de Leverkusen,3,0,0,9,21,3,16,20,20,0,0,0,,,,,Match Report
+2015-10-03,16:00 ,La Liga,Matchweek 7,Sat,Away,L,1,2,Sevilla,3,0,0,16,15,1,28,20,11,0,0,0,,,,,Match Report
+2015-10-17,20:30 ,La Liga,Matchweek 8,Sat,Home,W,5,2,Rayo Vallecano,1,0,0,8,15,7,9,26,17,2,0,0,,,,,Match Report
+2015-10-20,21:45 ,Champions Lg,Group stage,Tue,Away,W,2,0,by BATE Borisov,3,0,0,6,20,1,18,20,24,0,0,0,,,,,Match Report
+2015-10-25,18:15 ,La Liga,Matchweek 9,Sun,Home,W,3,1,Eibar,3,1,0,14,17,3,16,14,12,0,0,0,,,,,Match Report
+2015-10-28,20:30 ,Copa del Rey,Round of 32,Wed,Away,D,0,0,Villanovense,1,0,0,,,,,,,,,0,,,,,Match Report
+2015-10-31,20:30 ,La Liga,Matchweek 10,Sat,Away,W,2,0,Getafe,0,0,0,3,10,5,27,18,12,0,0,0,,,,,Match Report
+2015-11-04,20:45 ,Champions Lg,Group stage,Wed,Home,W,3,0,by BATE Borisov,1,0,0,10,10,5,20,19,20,0,0,0,,,,,Match Report
+2015-11-08,16:00 ,La Liga,Matchweek 11,Sun,Home,W,3,0,Villarreal,5,0,0,12,18,2,19,20,10,1,0,0,,,,,Match Report
+2015-11-21,18:15 ,La Liga,Matchweek 12,Sat,Away,W,4,0,Real Madrid,2,0,0,10,13,0,6,12,11,0,0,0,85,13,9,59.1,Match Report
+2015-11-24,20:45 ,Champions Lg,Group stage,Tue,Home,W,6,1,it Roma,3,0,0,13,11,9,9,9,18,0,0,0,,,,,Match Report
+2015-11-28,16:00 ,La Liga,Matchweek 13,Sat,Home,W,4,0,Real Sociedad,0,0,0,11,14,4,10,10,11,0,0,0,97,9,9,50.0,Match Report
+2015-12-02,20:00 ,Copa del Rey,Round of 32,Wed,Home,W,6,1,Villanovense,1,0,0,,,,,,,,,0,,,,,Match Report
+2015-12-05,20:30 ,La Liga,Matchweek 14,Sat,Away,D,1,1,Valencia,1,0,0,15,13,3,11,16,7,0,0,0,113,18,11,62.1,Match Report
+2015-12-09,20:45 ,Champions Lg,Group stage,Wed,Away,D,1,1,de Leverkusen,3,0,0,13,9,4,4,18,27,0,0,0,,,,,Match Report
+2015-12-12,16:00 ,La Liga,Matchweek 15,Sat,Home,D,2,2,La Coruña,0,0,0,4,11,4,20,16,12,0,0,0,90,11,10,52.4,Match Report
+2015-12-30,20:30 ,La Liga,Matchweek 17,Wed,Home,W,4,0,Betis,1,0,0,16,18,4,7,13,16,1,0,0,91,11,13,45.8,Match Report
+2016-01-02,16:00 ,La Liga,Matchweek 18,Sat,Away,D,0,0,Espanyol,3,0,0,10,22,6,19,15,19,0,0,0,101,9,15,37.5,Match Report
+2016-01-06,20:30 ,Copa del Rey,Round of 16,Wed,Home,W,4,1,Espanyol,4,0,0,,,,,,,,,0,,,,,Match Report
+2016-01-09,16:00 ,La Liga,Matchweek 19,Sat,Home,W,4,0,Granada,1,0,0,14,19,1,14,19,14,0,0,0,92,12,6,66.7,Match Report
+2016-01-13,21:00 ,Copa del Rey,Round of 16,Wed,Away,W,2,0,Espanyol,3,0,0,,,,,,,,,0,,,,,Match Report
+2016-01-17,20:30 ,La Liga,Matchweek 20,Sun,Home,W,6,0,Athletic Club,2,0,0,6,7,4,14,15,10,1,0,0,112,12,9,57.1,Match Report
+2016-01-20,21:00 ,Copa del Rey,Quarter-finals,Wed,Away,W,2,1,Athletic Club,3,0,0,,,,,,,,,0,,,,,Match Report
+2016-01-23,16:00 ,La Liga,Matchweek 21,Sat,Away,W,2,1,Málaga,3,0,0,9,14,4,12,11,16,0,0,0,79,8,17,32.0,Match Report
+2016-01-27,21:30 ,Copa del Rey,Quarter-finals,Wed,Home,W,3,1,Athletic Club,1,0,0,,,,,,,,,0,,,,,Match Report
+2016-01-30,16:00 ,La Liga,Matchweek 22,Sat,Home,W,2,1,Atlético Madrid,0,0,0,7,17,3,7,15,24,0,0,0,91,18,6,75.0,Match Report
+2016-02-03,21:00 ,Copa del Rey,Semi-finals,Wed,Home,W,7,0,Valencia,3,0,0,,,,,,,,,0,,,,,Match Report
+2016-02-07,12:00 ,La Liga,Matchweek 23,Sun,Away,W,2,0,Levante,3,0,0,10,14,3,16,19,20,0,0,0,76,8,5,61.5,Match Report
+2016-02-10,21:00 ,Copa del Rey,Semi-finals,Wed,Away,D,1,1,Valencia,2,0,0,,,,,,,,,0,,,,,Match Report
+2016-02-14,20:30 ,La Liga,Matchweek 24,Sun,Home,W,6,1,Celta Vigo,0,0,0,10,15,2,8,27,15,1,1,0,107,11,11,50.0,Match Report
+2016-02-17,18:30 ,La Liga,Matchweek 16,Wed,Away,W,3,1,Sporting Gijón,1,0,0,7,11,2,6,13,15,1,0,0,90,14,8,63.6,Match Report
+2016-02-20,15:00 ,La Liga,Matchweek 25,Sat,Away,W,2,1,Las Palmas,2,0,0,13,10,6,11,14,19,0,0,0,76,11,9,55.0,Match Report
+2016-02-23,19:45 ,Champions Lg,Round of 16,Tue,Away,W,2,0,eng Arsenal,1,0,0,14,13,1,21,12,17,0,0,0,,,,,Match Report
+2016-02-28,20:30 ,La Liga,Matchweek 26,Sun,Home,W,2,1,Sevilla,3,0,0,13,10,2,16,12,12,0,0,0,93,17,9,65.4,Match Report
+2016-03-03,21:00 ,La Liga,Matchweek 27,Thu,Away,W,5,1,Rayo Vallecano,2,0,0,9,17,5,11,13,16,1,0,0,85,15,10,60.0,Match Report
+2016-03-06,16:00 ,La Liga,Matchweek 28,Sun,Away,W,4,0,Eibar,2,0,0,10,15,4,14,18,12,0,0,0,96,13,12,52.0,Match Report
+2016-03-12,16:00 ,La Liga,Matchweek 29,Sat,Home,W,6,0,Getafe,0,0,0,7,13,1,5,12,15,1,0,0,88,11,6,64.7,Match Report
+2016-03-16,20:45 ,Champions Lg,Round of 16,Wed,Home,W,3,1,eng Arsenal,1,0,0,8,11,2,11,17,17,0,0,0,,,,,Match Report
+2016-03-20,16:00 ,La Liga,Matchweek 30,Sun,Away,D,2,2,Villarreal,4,0,0,9,15,4,17,14,11,1,0,1,86,9,12,42.9,Match Report
+2016-04-02,20:30 ,La Liga,Matchweek 31,Sat,Home,L,1,2,Real Madrid,3,0,0,17,13,3,8,13,14,0,0,0,71,6,6,50.0,Match Report
+2016-04-05,20:45 ,Champions Lg,Quarter-finals,Tue,Home,W,2,1,es Atlético Madrid,3,0,0,19,16,3,21,18,21,0,0,0,,,,,Match Report
+2016-04-09,20:30 ,La Liga,Matchweek 32,Sat,Away,L,0,1,Real Sociedad,3,0,0,13,14,4,17,18,13,0,0,0,110,19,14,57.6,Match Report
+2016-04-13,20:45 ,Champions Lg,Quarter-finals,Wed,Away,L,0,2,es Atlético Madrid,4,0,0,10,18,0,18,10,21,0,0,0,,,,,Match Report
+2016-04-17,20:30 ,La Liga,Matchweek 33,Sun,Home,L,1,2,Valencia,3,0,0,12,15,7,14,13,16,0,0,1,103,18,5,78.3,Match Report
+2016-04-20,20:00 ,La Liga,Matchweek 34,Wed,Away,W,8,0,La Coruña,0,0,0,8,10,2,8,17,7,0,0,0,52,8,7,53.3,Match Report
+2016-04-23,20:30 ,La Liga,Matchweek 35,Sat,Home,W,6,0,Sporting Gijón,0,0,0,11,10,1,16,12,10,2,0,0,92,13,8,61.9,Match Report
+2016-04-30,20:30 ,La Liga,Matchweek 36,Sat,Away,W,2,0,Betis,3,0,0,11,9,3,20,9,13,0,0,0,86,16,5,76.2,Match Report
+2016-05-08,17:00 ,La Liga,Matchweek 37,Sun,Home,W,5,0,Espanyol,3,0,0,15,24,1,18,12,11,0,0,0,96,12,10,54.5,Match Report
+2016-05-14,17:00 ,La Liga,Matchweek 38,Sat,Away,W,3,0,Granada,2,0,0,10,11,3,11,9,15,0,0,0,68,16,3,84.2,Match Report
+2016-05-22,21:30 ,Copa del Rey,Final,Sun,Home,W,2,0,Sevilla,4,1,0,,,,,,,,,0,,,,,Match Report
